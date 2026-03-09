@@ -8,9 +8,9 @@
 <br>
 
 <p align="center">
-  <strong>Milan Web Portal</strong> is a creative digital portal focused on delivering sleek, performant, and user-centered websites.
+  <strong>Milan Web Portal</strong> is the flagship website and central hub for all Milan Web Portal projects, delivering sleek, performant, and user-centered web solutions.
   <br><br>
-  From startups and local businesses to freelancers and creators, the portal offers customized web solutions — built with clarity, speed, and visual impact in mind.  
+  From startups and local businesses to freelancers and creators, the portal offers customized web solutions built with clarity, speed, and visual impact in mind.  
   <br><br>
   ⚡ Clean code. 🎨 Modern design. 📱 Seamless experience.
 </p>
@@ -29,9 +29,9 @@
 |------------------|---------------------------------------------------|
 | **Project Name** | Milan Web Portal                                  |
 | **Live URL**     | [milanwebportal.com](https://milanwebportal.com)  |
-| **Type**         | Portfolio                                         |
-| **Launch Date**  | 1. June 2022.                                     |
-| **Author**       | [Milan Petkovski](https://milanwebportal.com)     |
+| **Type**         | Portfolio & Central Hub                            |
+| **Launch Date**  | 1. June 2022                                     |
+| **Author**       | Milan Petkovski                                   |
 
 <hr>
 
@@ -43,7 +43,7 @@
 - `📱` Responsive Design  
 - `🔤` Google Fonts  
 - `✨` Font Awesome / Iconify  
-- `📊` SEO Optimization
+- `📊` SEO Optimization  
 - `📡` API Integration  
 
 <hr>
@@ -56,26 +56,9 @@
 - `🖼️` Interactive project showcase with animations  
 - `🔗` Custom Linktree integration  
 - `📨` Functional contact form  
-- `📄` Dynamic FAQ and Live sections  
-- `🛍️` Future-ready Shop page  
+- `📄` Dynamic FAQ and live sections  
+- `🛍️` Future-ready shop page  
 - `🌐` SEO-optimized structure for better visibility  
-
-<hr>
-
-## ⚙️ Installation (Local)
-
-```bash
-git clone https://github.com/milan-petkovski/Milan-Web-Portal.git
-cd Milan-Web-Portal
-open index.html
-```
-
-<hr>
-
-## 📄 License
-
-**All files and design are the property of Milan Petkovski.**  
-The code is open for viewing but not allowed to be downloaded, modified, or used for commercial purposes without permission.
 
 <hr>
 

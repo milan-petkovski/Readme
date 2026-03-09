@@ -1,22 +1,22 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=bc201d&center=true&vCenter=true&width=800&lines=CM+Agency;Creative+Marketing+Agency;Smart+Strategy+Meets+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=bc201d&center=true&vCenter=true&width=800&lines=CM+Agency;Creative+Digital+Agency;Web+Design+%26+Digital+Marketing;Modern+Business+Solutions" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <img src="https://i.postimg.cc/6pD9kB4r/website3.jpg" width="500px" alt="CM Agency Screenshot">
-</div>  
+  <img src="https://i.postimg.cc/6pD9kB4r/website3.jpg" width="500px" alt="CM Agency Website Screenshot">
+</div>
 <br>
 
 <p align="center">
-  <strong>CM Agency</strong> is a forward-thinking digital marketing studio focused on performance-driven campaigns, sleek design, and powerful branding.
+  <strong>CM Agency</strong> is a creative digital agency focused on helping businesses build a powerful online presence.
   <br><br>
-  From small businesses to bold startups — CM Agency crafts smart strategies that convert. Whether it's web design, SEO, branding, or content, every detail is built to grow your online presence and turn attention into action.
+  From modern websites and branding to digital marketing strategies, the agency delivers solutions designed to attract customers, improve visibility, and grow businesses online.
   <br><br>
-  🧠 Strategic thinking. 🎨 Creative execution. 📈 Real results.
+  ⚡ Strategic thinking. 🎨 Modern design. 📈 Real business growth.
 </p>
 
 <p align="center">
-  <a href="https://cmagency.netlify.app">
+  <a href="https://cmagency.netlify.app/">
     <img src="https://img.shields.io/badge/Visit-Website-bc201d?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">
   </a>
 </p>
@@ -25,13 +25,13 @@
 
 ## 🧊 Project Overview
 
-| Key Detail       | Info                                                    |
-|------------------|---------------------------------------------------------|
-| **Project Name** | CM Agency                                               |
-| **Live URL**     | [cmagency.netlify.app](https://cmagency.netlify.app)  |
-| **Type**         | Digital Marketing Agency                                |
-| **Launch Date**  | 1. March 2025.                                          |
-| **Author**       | [Milan Petkovski](https://milanwebportal.com)           |
+| Key Detail       | Info                           |
+|------------------|--------------------------------|
+| **Project Name** | CM Agency                      |
+| **Live URL**     | https://cmagency.netlify.app/  |
+| **Type**         | Digital Agency Website         |
+| **Focus**        | Web Design & Digital Marketing |
+| **Author**       | Milan Petkovski                |
 
 <hr>
 
@@ -40,49 +40,30 @@
 - `📄` HTML5  
 - `🎨` CSS3  
 - `🧠` JavaScript  
-- `🔧` C#    
-- `🚀` Render  
-- `🐳` Docker   
-- `🧬` NeonDB   
-- `📱` Fully Responsive Design  
-- `🔤` Google Fonts 
+- `📱` Responsive Design  
+- `✨` Iconify / Font Awesome  
+- `🔤` Google Fonts  
+- `📊` SEO Optimization  
 
 <hr>
 
-## 🎯 Features
+## 🎯 Services & Features
 
-- `💡` Modern and creative agency layout  
-- `⚡` Fast-loading pages and optimized assets  
-- `📱` Mobile-first responsive design  
-- `🖥️` Portfolio showcase with smooth transitions  
-- `📈` Conversion-ready contact form  
-- `📰` Future-ready blog / news area  
-- `🧩` Service-focused homepage with clear CTAs  
-- `📨` Newsletter-ready integration (Mailchimp/Netlify Forms)
-
----
-
-## ⚙️ Installation (Local)
-
-```bash
-git clone https://github.com/Milan-petkovski/CM-Agency.git
-cd CM-Agency
-open index.html
-```
-
-<hr>
-
-## 📄 License
-
-**All files and design are the property of Milan Petkovski.**  
-The code is open for viewing but not allowed to be downloaded, modified, or used for commercial purposes without permission.
+- `🌐` Custom business websites  
+- `📱` Fully responsive modern design  
+- `🚀` Performance optimized pages  
+- `📈` SEO-friendly website structure  
+- `🎨` Branding and visual identity  
+- `📢` Digital marketing support  
+- `📊` Online presence optimization  
 
 <hr>
 
 ## ✉️ Contact
 
-Have a project in mind or want to work together?  
-🌐 [milanwebportal.com](https://milanwebportal.com)  
-📧 [contact@milanwebportal.com](mailto:contact@milanwebportal.com)  
+Looking to improve your business online presence?  
+🌐 https://cmagency.netlify.app/  
+📧 contact@milanwebportal.com  
+
 <br/>
-<p align="center"> 🚀 Built with passion, precision, and pixel-perfection by <strong>Milan Petkovski</strong> </p>
+<p align="center"> 🚀 Built with creativity and strategy by <strong>Milan Petkovski</strong> </p>

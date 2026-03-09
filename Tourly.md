@@ -1,22 +1,22 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=3b79c9&center=true&vCenter=true&width=800&lines=Tourly+Travel+Agency;Explore+the+World;Your+Perfect+Travel+Partner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=3b79c9&center=true&vCenter=true&width=800&lines=Tourly+Platform;Modern+Travel+Experience;Explore+Discover+Travel;Seamless+Tour+Booking" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <img src="https://i.postimg.cc/fbmwZ1YC/website9.jpg" width="500px" alt="Tourly Screenshot">
-</div>  
+  <img src="https://i.postimg.cc/fbmwZ1YC/website9.jpg" width="500px" alt="Tourly Website Screenshot">
+</div>
 <br>
 
 <p align="center">
-  <strong>Tourly</strong> is a sleek, elegant and user-centered travel agency website designed to help users discover and book the journey of their dreams.
+  <strong>Tourly</strong> is a modern travel platform designed to provide users with seamless tour booking, exploration, and discovery experiences.
   <br><br>
-  From exotic beach holidays to adventurous mountain getaways, <strong>Tourly</strong> offers curated experiences and real-time booking integrations in a fast and responsive design.
+  The platform combines clean design, intuitive navigation, and engaging content to showcase destinations, tours, and travel services efficiently.
   <br><br>
-  🌍 Discover. Plan. Travel. Let Tourly be your gateway to the world.
+  ✈️ Explore easily. 🌍 Discover widely. 🚀 Built for travelers.
 </p>
 
 <p align="center">
-  <a href="https://tourly.milanwebportal.com">
+  <a href="https://tourly.milanwebportal.com/">
     <img src="https://img.shields.io/badge/Visit-Website-3b79c9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">
   </a>
 </p>
@@ -25,13 +25,13 @@
 
 ## 🧊 Project Overview
 
-| Key Detail       | Info                                                 |
-|------------------|------------------------------------------------------|
-| **Project Name** | Tourly                                               |
-| **Live URL**     | [tourly.milanwebportal.com](https://tourly.milanwebportal.com) |
-| **Type**         | Travel Agency Website                                |
-| **Launch Date**  | 1. May 2025.                                         |
-| **Author**       | [Milan Petkovski](https://milanwebportal.com)        |
+| Key Detail       | Info                               |
+|------------------|------------------------------------|
+| **Project Name** | Tourly                              |
+| **Live URL**     | https://tourly.milanwebportal.com/ |
+| **Type**         | Travel Platform Website            |
+| **Focus**        | Tours, Booking & Exploration       |
+| **Author**       | Milan Petkovski                    |
 
 <hr>
 
@@ -41,43 +41,29 @@
 - `🎨` CSS3  
 - `🧠` JavaScript  
 - `📱` Responsive Design  
+- `✨` Modern UI Components  
 - `🔤` Google Fonts  
-- `🔗` API Integration (Booking functionality)
+- `📊` SEO Optimization  
 
 <hr>
 
 ## 🎯 Features
 
-- `🌍` Showcase of global travel destinations  
-- `📱` Fully responsive layout (mobile, tablet, desktop)  
-- `🗓️` Personalized itineraries per trip  
-- `🛫` Real-time availability & booking options  
-- `📝` Clear package details and visuals  
-- `📍` Integrated contact page with location map  
-
-<hr>
-
-## ⚙️ Installation (Local)
-
-```bash
-git clone https://github.com/Milan-petkovski/Tourly.git
-cd Tourly
-open index.html
-```
-
-<hr>
-
-## 📄 License
-
-**All files and design are the property of Milan Petkovski.**  
-The code is open for viewing but not allowed to be downloaded, modified, or used for commercial purposes without permission.
+- `✈️` Tour and travel-focused layout  
+- `📱` Fully responsive interface  
+- `🎨` Clean and modern design  
+- `🚀` Optimized for speed and performance  
+- `🧩` Modular sections for easy updates  
+- `🔗` Destination and tour presentation  
+- `📈` Built for user engagement and bookings  
 
 <hr>
 
 ## ✉️ Contact
 
-Have a project in mind or want to work together?  
-🌐 [milanwebportal.com](https://milanwebportal.com)  
-📧 [contact@milanwebportal.com](mailto:contact@milanwebportal.com)  
+Want to create a modern travel platform or website?  
+🌐 https://milanwebportal.com  
+📧 contact@milanwebportal.com  
+
 <br/>
-<p align="center"> 🚀 Built with passion, precision, and pixel-perfection by <strong>Milan Petkovski</strong> </p>
+<p align="center"> 🚀 Designed and developed by <strong>Milan Petkovski</strong> </p>

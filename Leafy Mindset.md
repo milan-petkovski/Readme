@@ -1,23 +1,23 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=7ca987&center=true&vCenter=true&width=800&lines=Leafy+Mindset;Mental+Wellness+Platform;Breathe.+Balance.+Bloom." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=1c7a26&center=true&vCenter=true&width=800&lines=Leafy+Mindset;Healthy+Living+Platform;Wellness+and+Growth;Modern+Lifestyle+Website" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <img src="https://i.postimg.cc/VNnY12Xj/website5.jpg" width="500px" alt="LeafyMindset Screenshot">
-</div>  
+  <img src="https://i.postimg.cc/VNnY12Xj/website5.jpg" width="500px" alt="Leafy Mindset Website Screenshot">
+</div>
 <br>
 
 <p align="center">
-  <strong>LeafyMindset</strong> is a calming and inspiring digital space dedicated to mindfulness, self-care, and personal growth.
+  <strong>Leafy Mindset</strong> is a modern lifestyle and wellness platform designed to promote healthy living, personal growth, and mindful habits.
   <br><br>
-  Whether you're exploring daily affirmations, mental health tips, or lifestyle content — this minimal yet expressive platform offers a safe place to reset, reflect, and realign.  
+  The website combines clean design, intuitive navigation, and engaging content to provide users with an immersive experience focused on wellness and sustainable lifestyle choices.
   <br><br>
-  🍃 Slow down. Breathe deeply. Nurture your mind — with LeafyMindset.
+  🌿 Healthy design. 🌱 Mindful content. 🚀 Built for conscious living.
 </p>
 
 <p align="center">
-  <a href="https://leafymindset.netlify.app">
-    <img src="https://img.shields.io/badge/Visit-Website-7ca987?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">
+  <a href="https://leafymindset.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit-Website-1c7a26?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">
   </a>
 </p>
 
@@ -25,13 +25,13 @@
 
 ## 🧊 Project Overview
 
-| Key Detail       | Info                                                   |
-|------------------|--------------------------------------------------------|
-| **Project Name** | Leafy Mindset                                          |
-| **Live URL**     | [leafymindset.netlify.app](https://leafymindset.netlify.app) |
-| **Type**         | Wellness / Mental Health / Lifestyle                   |
-| **Launch Date**  | 3. May 2025.                                           |
-| **Author**       | [Milan Petkovski](https://milanwebportal.com)          |
+| Key Detail       | Info                               |
+|------------------|------------------------------------|
+| **Project Name** | Leafy Mindset                      |
+| **Live URL**     | https://leafymindset.netlify.app/  |
+| **Type**         | Wellness & Lifestyle Website       |
+| **Focus**        | Healthy Living & Personal Growth   |
+| **Author**       | Milan Petkovski                    |
 
 <hr>
 
@@ -41,44 +41,29 @@
 - `🎨` CSS3  
 - `🧠` JavaScript  
 - `📱` Responsive Design  
+- `✨` Modern UI Components  
 - `🔤` Google Fonts  
-- `🖼️` Minimal UI/UX Principles  
-- `🌍` Netlify (Deployment)
+- `📊` SEO Optimization  
 
 <hr>
 
 ## 🎯 Features
 
-- `🧘‍♀️` Calm and nature-inspired visual identity  
-- `📱` Fully responsive across devices  
-- `📖` Static blog/affirmation content  
-- `🪴` Clean, minimal, distraction-free interface  
-- `💚` Focus on mental clarity and positivity  
-- `🔗` SEO-friendly design & structure  
-
-<hr>
-
-## ⚙️ Installation (Local)
-
-```bash
-git clone https://github.com/Milan-petkovski/Leafy.git
-cd LeafyMindset
-open index.html
-```
-
-<hr>
-
-## 📄 License
-
-**All files and design are the property of Milan Petkovski.**  
-The code is open for viewing but not allowed to be downloaded, modified, or used for commercial purposes without permission.
+- `🌿` Wellness-focused content and layout  
+- `📱` Fully responsive design for all devices  
+- `🎨` Clean, natural, and modern interface  
+- `🚀` Fast and optimized performance  
+- `🧩` Modular sections for easy updates  
+- `🔗` Mindful and user-centric navigation  
+- `📈` Built for engagement and growth  
 
 <hr>
 
 ## ✉️ Contact
 
-Have a project in mind or want to work together?  
-🌐 [milanwebportal.com](https://milanwebportal.com)  
-📧 [contact@milanwebportal.com](mailto:contact@milanwebportal.com)  
+Interested in creating a wellness or lifestyle platform?  
+🌐 https://milanwebportal.com  
+📧 contact@milanwebportal.com  
+
 <br/>
-<p align="center"> 🚀 Built with passion, precision, and pixel-perfection by <strong>Milan Petkovski</strong> </p>
+<p align="center"> 🚀 Designed and developed by <strong>Milan Petkovski</strong> </p>

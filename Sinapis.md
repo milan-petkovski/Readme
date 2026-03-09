@@ -1,23 +1,23 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=fdce0f&center=true&vCenter=true&width=800&lines=Sinapis;Modern+Web+Platform;Growth.+Innovation.+Success." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=fdce0f&center=true&vCenter=true&width=800&lines=Sinapis+Website;Premium+Mustard+Brand;Modern+Food+Design;Flavor+Elevated" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <img src="https://i.postimg.cc/zfypKcsX/website6.jpg" width="500px" alt="Sinapis Screenshot">
-</div>  
+  <img src="https://i.postimg.cc/zfypKcsX/website6.jpg" width="500px" alt="Sinapis Website Screenshot">
+</div>
 <br>
 
 <p align="center">
-  <strong>Sinapis</strong> is a modern and innovative digital platform focused on growth and professional presentation.
+  <strong>Sinapis</strong> is a modern website for a premium mustard brand, designed to highlight product quality, flavors, and brand identity in an engaging and visually appealing way.
   <br><br>
-  This project offers a clean design and optimized user experience for maximum results.  
+  The design focuses on clean presentation, intuitive navigation, and showcasing the brand’s culinary uniqueness to attract customers online.
   <br><br>
-  🌱 Develop your vision with Sinapis.
+  🌭 Premium design. 🎨 Modern aesthetics. 🚀 Built for food lovers.
 </p>
 
 <p align="center">
-  <a href="https://sinapis.rs">
-    <img src="https://img.shields.io/badge/Visit-Website-fdce0f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">
+  <a href="https://sinapis.rs/">
+    <img src="https://img.shields.io/badge/Visit-Website-fdce0f?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website Badge">
   </a>
 </p>
 
@@ -25,79 +25,45 @@
 
 ## 🧊 Project Overview
 
-<table>
-  <tr>
-    <th>Key Detail</th>
-    <th>Info</th>
-  </tr>
-  <tr>
-    <td><strong>Project Name</strong></td>
-    <td>Sinapis</td>
-  </tr>
-  <tr>
-    <td><strong>Live URL</strong></td>
-    <td><a href="https://sinapis.rs">sinapis.rs</a></td>
-  </tr>
-  <tr>
-    <td><strong>Type</strong></td>
-    <td>Chiropractic</td>
-  </tr>
-  <tr>
-    <td><strong>Launch Date</strong></td>
-    <td>March 2026.</td>
-  </tr>
-  <tr>
-    <td><strong>Author</strong></td>
-    <td><a href="https://milanwebportal.com">Milan Petkovski</a></td>
-  </tr>
-</table>
+| Key Detail       | Info                           |
+|------------------|--------------------------------|
+| **Project Name** | Sinapis                        |
+| **Live URL**     | https://sinapis.rs/            |
+| **Type**         | Food Brand Website             |
+| **Focus**        | Premium Mustard & Product Showcase |
+| **Author**       | Milan Petkovski                |
 
 <hr>
 
 ## 🚀 Technologies
 
-* `📄` HTML5  
-* `🎨` CSS3  
-* `🧠` JavaScript  
-* `📱` Responsive Design  
-* `🔤` Google Fonts  
-* `🖼️` Minimal UI/UX Principles  
-* `🌍` Netlify Platform
+- `📄` HTML5  
+- `🎨` CSS3  
+- `🧠` JavaScript  
+- `📱` Responsive Design  
+- `✨` Modern UI Components  
+- `🔤` Google Fonts  
+- `📊` SEO Optimization  
 
 <hr>
 
 ## 🎯 Features
 
-* `🌱` Modern and professional visual identity  
-* `📱` Fully responsive across all devices  
-* `📖` Clearly structured content  
-* `🪴` Clean and distraction free interface  
-* `💚` Focus on speed and efficiency  
-* `🔗` SEO friendly design  
-
-<hr>
-
-## ⚙️ Installation (Local)
-
-```bash
-git clone https://github.com/MilanPetkovski/Sinapis.git
-cd Sinapis
-open index.html
-```
-
-<hr>
-
-## 📄 License
-
-**All files and design are the property of Milan Petkovski.**  
-The code is open for viewing but not allowed to be downloaded, modified, or used for commercial purposes without permission.
+- `🌭` Premium food product presentation  
+- `📱` Fully responsive and modern layout  
+- `🎨` Clean, attractive visual design  
+- `🚀` Optimized for speed and performance  
+- `🧩` Modular sections for easy updates  
+- `🔗` Product and brand storytelling  
+- `📈` Built to engage and convert food enthusiasts  
 
 <hr>
 
 ## ✉️ Contact
 
-Have a project in mind or want to work together?  
-🌐 [milanwebportal.com](https://milanwebportal.com)  
-📧 [contact@milanwebportal.com](mailto:contact@milanwebportal.com)  
+Interested in creating a modern food brand website?  
+🌐 https://milanwebportal.com  
+📧 contact@milanwebportal.com  
+
 <br/>
-<p align="center"> 🚀 Built with passion, precision, and pixel-perfection by <strong>Milan Petkovski</strong> </p>
+<p align="center"> 🚀 Designed and developed by <strong>Milan Petkovski</strong> </p>
