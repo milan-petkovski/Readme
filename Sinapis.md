@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <a href="https://sinapis.rs">
+  <a href="https://sinapis.netlify.app">
     <img src="https://img.shields.io/badge/Visit-Website-fdce0f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Badge za posetu sajtu" />
   </a>
 </p>
@@ -17,7 +17,7 @@
 | Ključni podatak | Vrednost |
 |---|---|
 | **Naziv projekta** | Sinapis |
-| **URL sajta uživo** | [https://sinapis.rs](https://sinapis.rs) |
+| **URL sajta uživo** | [https://sinapis.netlify.app](https://sinapis.netlify.app) |
 | **Tip** | Sajt terapijskih programa i digitalnog proizvoda |
 | **Primarni fokus** | Pretvaranje posetilaca u upite, polaznike programa i kupce knjige |
 | **Autor** | Milan Petkovski |
