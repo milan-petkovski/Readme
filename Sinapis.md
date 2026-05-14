@@ -1,76 +1,70 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=fdce0f&center=true&vCenter=true&width=900&lines=Sinapis;Pregled%20projekta;Sajt%20terapijskih%20programa%20i%20digitalnog%20proizvoda" alt="Sinapis Naslov koji se ispisuje" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=fdce0f&center=true&vCenter=true&width=900&lines=SINAPIS;Terapijski+Programi;Pregled+projekta" alt="Sinapis Naslov" />
 </p>
 
 <div align="center">
-  <img src="https://milanwebportal.com/images/Projects/website6.jpg" width="520px" alt="Sinapis Snimak projekta" />
+  <img src="https://milanwebportal.com/images/Projects/website6.jpg" width="650px" style="border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.3);" alt="Sinapis Preview" />
 </div>
 
 <p align="center">
-  <a href="https://sinapis.netlify.app">
-    <img src="https://img.shields.io/badge/Visit-Website-fdce0f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Badge za posetu sajtu" />
+  <a href="https://sinapis.milanwebportal.com">
+    <img src="https://img.shields.io/badge/POSETI-WEBSITE-fdce0f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Poseti Sajt" />
   </a>
 </p>
 
-## 🧊 Detalji projekta
+<br>
 
-| Ključni podatak | Vrednost |
-|---|---|
-| **Naziv projekta** | Sinapis |
-| **URL sajta uživo** | [https://sinapis.netlify.app](https://sinapis.netlify.app) |
-| **Tip** | Sajt terapijskih programa i digitalnog proizvoda |
-| **Primarni fokus** | Pretvaranje posetilaca u upite, polaznike programa i kupce knjige |
-| **Autor** | Milan Petkovski |
+## 💎 Premium Iskustvo
+Sinapis je holistička platforma posvećena terapijskim programima i digitalnim proizvodima za unapređenje mentalnog i fizičkog zdravlja. Sajt je dizajniran da pruži osećaj sigurnosti, jasnoće i empatije, vodeći korisnika kroz proces prepoznavanja problema do konkretnog rešenja i prijave.
 
-## 🎯 Studija slučaja
+| Kategorija | Informacije |
+| :--- | :--- |
+| **🚀 Projekat** | Sinapis |
+| **🌐 URL** | [sinapis.milanwebportal.com](https://sinapis.milanwebportal.com) |
+| **🎨 Dizajn** | Empathic / Minimalist / Health-focused |
+| **🛠️ Tip** | Sajt za terapijske programe |
+| **✍️ Autor** | Milan Petkovski |
+
+<br>
+
+## 🎯 Strategija i Ciljevi
 
 ### 🧩 Problem
-Korisnici sa telesnim i mentalnim tegobama traže poverenje, jasnoću i konkretan prvi korak, ali često nailaze na preopterećene i nejasne terapijske sajtove.
+Korisnici koji traže pomoć za telesne ili mentalne tegobe često nailaze na konfuzne i preopterećene medicinske sajtove koji ne ulivaju dovoljno poverenja i ne nude jasan prvi korak ka oporavku.
 
 ### 💡 Rešenje
-Sinapis koristi empatijsku strukturu: uvodnu sekciju fokusiranu na problem, jasno predstavljen terapeut, segmentacija programa (telo/um) i direktni kontakt kanali.
+Sinapis koristi "empatijsku strukturu" sadržaja. Fokus je na uvodnoj sekvenci koja adresira stvarne probleme korisnika, jasno predstavljenom terapeutu i preciznoj segmentaciji programa (telo i um). Digitalni proizvod (knjiga "Deca Dece") je integrisan kao pristupačan ulazni korak u širi ekosistem usluga.
 
-### ✅ Šta je rešeno
-✅ Jasno postavljen put od problema ka programu <br>
-✅ Knjiga Deca Dece pozicionirana kao ulazni digitalni proizvod <br>
-✅ Povećano poverenje kroz detaljnu bio sekciju terapeuta <br>
-✅ Kontakt kanali (email/društveni) učinjeni maksimalno dostupnim <br>
+### ✅ Rezultati
+*   **Jasno trasiran put korisnika** od prepoznavanja problema do izbora adekvatnog programa.
+*   **Uspostavljen snažan lični brend** terapeuta kroz autentičnu bio sekciju.
+*   **Optimizovana prodaja digitalnog proizvoda** kao dodatnog kanala vrednosti.
 
-## ✨ Ključne funkcionalnosti
+<br>
 
-`🔹` uvodna poruka sa jakim emocionalnim okidačem i poziv na akciju (CTA)-om <br>
-`🔹` Program segmentation: telo i um <br>
-`🔹` Digital book offer sa akcijskom cenom <br>
-`🔹` Terapeut profil i metodološki pristup <br>
-`🔹` Kontakt sekcija sa više komunikacionih kanala <br>
-`🔹` Podržane pravne stranice (privatnost/povraćaj) <br>
+## ✨ Ključne Funkcionalnosti
 
-## 🚀 Tehnologije
+`💎` **Empathic Onboarding**: Sekcije sa snažnim emocionalnim okidačima koje podstiču na akciju. <br>
+`💎` **Program Segmentation**: Jasno razdvojeni moduli za rad na telu i umu. <br>
+`💎` **Digital Book Store**: Optimizovan segment za prodaju knjige sa fokusom na konverziju. <br>
+`💎` **Therapist Profile**: Detaljan uvid u metodološki pristup i stručnost terapeuta. <br>
 
-`⚙️` HTML5 <br>
-`⚙️` CSS3 <br>
-`⚙️` JavaScript <br>
-`⚙️` Sekcije usmerene na konverziju <br>
-`⚙️` SEO structure for health niche <br>
+<br>
 
-## 📈 SEO i performanse
+## 🛠️ Tech Stack & Optimizacija
 
-`⚡` Jasna hijerarhija naslova i prilagođena indeksiranju struktura sekcija <br>
-`📱` Prvo mobilni raspored sa fokusom na čitljivost i brzinu navigacije <br>
-`🧠` Konverzioni tok organizovan oko primarnih tačaka poziva na akciju (CTA) <br>
-`🔎` Metadata i informacijska arhitektura pripremljeni za bolju vidljivost <br>
+`⚙️` **Frontend**: HTML5, CSS3, JavaScript (ES6+). <br>
+`⚙️` **Hosting**: Netlify sa maksimalnom dostupnošću i brzinom. <br>
+`⚙️` **Dizajn**: UX arhitektura usmerena na uklanjanje distrakcija i izgradnju poverenja. <br>
+`⚙️` **SEO**: Semantička struktura prilagođena specifičnim upitima u health i wellness niši. <br>
 
-## ✉️ Kontakt
+<br>
 
-`🌐` Sajt: https://milanwebportal.com <br>
-`📧` Email: contact@milanwebportal.com <br>
+## 📬 Kontakt
 
+`🌐` **Website**: [milanwebportal.com](https://milanwebportal.com) <br>
+`📧` **Email**: contact@milanwebportal.com <br>
+`💼` **LinkedIn**: [Milan Petkovski](https://linkedin.com/in/milan--petkovski) <br>
 
-
-
-
-
-
-
-
-
+---
+<p align="center">Made with ❤️ by Milan Web Portal</p>

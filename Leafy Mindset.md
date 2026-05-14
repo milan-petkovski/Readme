@@ -1,93 +1,78 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=1c7a26&center=true&vCenter=true&width=900&lines=Leafy%20Mindset;Pregled%20projekta;Web%20projekat" alt="Leafy Mindset Naslov koji se ispisuje" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=1c7a26&center=true&vCenter=true&width=900&lines=LEAFY+MINDSET;eBook+Landing+Stranica;Pregled+projekta" alt="Leafy Mindset Naslov" />
 </p>
 
 <div align="center">
-  <img src="https://milanwebportal.com/images/Projects/website5.jpg" width="520px" alt="Leafy Mindset Snimak projekta" />
+  <img src="https://milanwebportal.com/images/Projects/website5.jpg" width="650px" style="border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.3);" alt="Leafy Mindset Preview" />
 </div>
 
 <p align="center">
-  <a href="https://leafymindset.netlify.app">
-    <img src="https://img.shields.io/badge/Visit-Website-1c7a26?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Badge za posetu sajtu" />
+  <a href="https://leafymindset.milanwebportal.com">
+    <img src="https://img.shields.io/badge/POSETI-WEBSITE-1c7a26?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Poseti Sajt" />
   </a>
 </p>
 
-## 🧊 Detalji projekta
+<br>
 
-| Ključni podatak | Vrednost |
-|---|---|
-| **Naziv projekta** | Leafy Mindset |
-| **URL sajta uživo** | [https://leafymindset.netlify.app](https://leafymindset.netlify.app) |
-| **Tip** | eBook landing stranica |
-| **Primarni fokus** | Konverzija ponude knjige u psihologija/self-development niši |
-| **Autor** | Milan Petkovski |
-## 🌟 Recenzija klijenta
+## 💎 Premium Iskustvo
+Leafy Mindset je visokokonverziona landing stranica kreirana za prodaju digitalnih proizvoda u sferi psihologije i ličnog razvoja. Dizajn odiše mirom i fokusom, eliminisanjem svih distrakcija kako bi korisnik mogao nesmetano da se upozna sa vrednošću knjige i izvrši kupovinu.
 
-> *Imao sam veliko zadovoljstvo da sarađujem sa Milanom i mogu reći samo reči hvale.*
->
-> *Njegova posvećenost i angažovanost su na vrhunskom nivou - uvek je dostupan i spreman da pomogne.*
->
-> *Ono što ga izdvaja je neverovatna brzina rada bez kompromisa na kvalitetu, sajtovi koje kreira su ne samo funkcionalni, već i vizuelno impresivni.*
->
-> *Milan je izuzetno profesionalan u pristupu, a čak i kada su potrebne naknadne ispravke, on ih rešava u rekordnom roku.*
->
-> *Ako tražite nekoga ko spaja kreativnost, efikasnost i sjajnu komunikaciju, Milan je pravi izbor!*
+| Kategorija | Informacije |
+| :--- | :--- |
+| **🚀 Projekat** | Leafy Mindset |
+| **🌐 URL** | [leafymindset.milanwebportal.com](https://leafymindset.milanwebportal.com) |
+| **🎨 Dizajn** | Wellness / Minimalist / Conversion-focused |
+| **🛠️ Tip** | eBook prodajna stranica |
+| **✍️ Autor** | Milan Petkovski |
 
-## 🎯 Case study
+<br>
+
+## 🎯 Strategija i Ciljevi
 
 ### 🧩 Problem
-Publika za self-development sadržaj brzo odustaje ako ponuda knjige nije direktna, jasna i emotivno relevantna od prvog ekrana.
+Publika u self-development niši traži brza i jasna rešenja. Ukoliko prodajna stranica nije emotivno relevantna i tehnički besprekorna od prve sekunde, stopa napuštanja sajta (bounce rate) drastično raste.
 
 ### 💡 Rešenje
-odredišna je sveden na high-conversion format: snažan naslov, vrednosna poruka i direktan poziv na akciju (CTA) ka kupovini digitalnog proizvoda.
+Razvili smo "single-goal" format: snažan headline koji pogađa srž problema publike, jasna vrednosna poruka (Value Proposition) i direktan poziv na akciju koji vodi ka Gumroad checkout-u. Svaki element dizajna služi isključivo jednoj svrsi – konverziji.
 
-### ✅ Šta je rešeno
-✅ Skraćen tok konverzije do kupovine na minimum koraka <br>
-✅ Jasna ponuda sa cenom i digitalnim koristom <br>
-✅ Snažan headline koji targetira bolnu tačku publike <br>
-✅ Fokus na jednu glavnu akciju bez distrakcija <br>
+### ✅ Rezultati
+*   **Maksimalno skraćen put do kupovine** kroz eliminaciju nepotrebnih koraka.
+*   **Fokusirana pažnja korisnika** na ključne benefite digitalnog proizvoda.
+*   **Besprekoran mobilni prikaz** neophodan za saobraćaj sa društvenih mreža.
 
-## ✨ Ključne funkcionalnosti
+<br>
 
-`🔹` Single-goal poziv na akciju (CTA) ka Gumroad checkoutu <br>
-`🔹` Jasan value proposition iznad pregiba <br>
-`🔹` Lagan i brz odredišna format <br>
-`🔹` Mobile-prioritetna čitljivost <br>
-`🔹` Konzistentan psihologija/wellness ton komunikacije <br>
+## ✨ Ključne Funkcionalnosti
 
-## 🚀 Tehnologije
+`💎` **Conversion First**: Jasan poziv na akciju (CTA) integrisan sa checkout sistemom. <br>
+`💎` **Psychological UI**: Ton komunikacije i paleta boja usklađeni sa wellness tematikom. <br>
+`💎` **Value Hooks**: Sekcije koje ističu konkretne koristi koje čitalac dobija. <br>
+`💎` **Speed Optimized**: Lagan i brz format koji garantuje trenutno učitavanje. <br>
 
-`⚙️` HTML5 <br>
-`⚙️` CSS3 <br>
-`⚙️` JavaScript <br>
-`⚙️` Conversion-focused odredišna structure <br>
-`⚙️` Netlify hosting <br>
+<br>
 
-## 📈 SEO i performanse
+## 🛠️ Tech Stack & Optimizacija
 
-`⚡` Jasna hijerarhija naslova i prilagođena indeksiranju struktura sekcija <br>
-`📱` Prvo mobilni raspored sa fokusom na čitljivost i brzinu navigacije <br>
-`🧠` Konverzioni tok organizovan oko primarnih tačaka poziva na akciju (CTA) <br>
-`🔎` Metadata i informacijska arhitektura pripremljeni za bolju vidljivost <br>
+`⚙️` **Frontend**: HTML5, CSS3, JavaScript (ES6+). <br>
+`⚙️` **Hosting**: Netlify sa kontinuiranom isporukom sadržaja. <br>
+`⚙️` **Dizajn**: Landing-page struktura dizajnirana za maksimalnu prodajnu efikasnost. <br>
+`⚙️` **SEO**: Optimizovana meta struktura za bolju vidljivost u svojoj niši. <br>
 
-## ✉️ Kontakt
+<br>
 
-`🌐` Sajt: https://milanwebportal.com <br>
-`📧` Email: contact@milanwebportal.com <br>
+## 🌟 Recenzija Klijenta
 
+> "Imao sam veliko zadovoljstvo da sarađujem sa Milanom i mogu reći samo reči hvale. Njegova posvećenost i angažovanost su na vrhunskom nivou - uvek je dostupan i spreman da pomogne. Ono što ga izdvaja je neverovatna brzina rada bez kompromisa na kvalitetu, sajtovi koje kreira su vizuelno impresivni."
+> 
+> — **Osnivač Leafy Mindset**
 
+<br>
 
+## 📬 Kontakt
 
+`🌐` **Website**: [milanwebportal.com](https://milanwebportal.com) <br>
+`📧` **Email**: contact@milanwebportal.com <br>
+`💼` **LinkedIn**: [Milan Petkovski](https://linkedin.com/in/milan--petkovski) <br>
 
-
-
-
-
-
-
-
-
-
-
-
-
+---
+<p align="center">Made with ❤️ by Milan Web Portal</p>

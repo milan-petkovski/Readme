@@ -1,75 +1,70 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=29b6f6&center=true&vCenter=true&width=900&lines=Mlađa;Pregled%20projekta;Polovne%20veš%20i%20mašine" alt="Mlađa Naslov koji se ispisuje" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=29b6f6&center=true&vCenter=true&width=900&lines=MLAĐA;Polovne+Veš+Mašine;Pregled+projekta" alt="Mlađa Naslov" />
 </p>
 
 <div align="center">
-  <img src="https://milanwebportal.com/images/Projects/website22.jpg" width="520px" alt="Mlađa Snimak projekta" />
+  <img src="https://milanwebportal.com/images/Projects/website22.jpg" width="650px" style="border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.3);" alt="Mlađa Preview" />
 </div>
 
 <p align="center">
   <a href="https://mladja.milanwebportal.com">
-    <img src="https://img.shields.io/badge/Visit-Website-29b6f6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Badge za posetu sajtu" />
+    <img src="https://img.shields.io/badge/POSETI-WEBSITE-29b6f6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Poseti Sajt" />
   </a>
 </p>
 
-## 🧊 Detalji projekta
+<br>
 
-| Ključni podatak | Vrednost |
-|---|---|
-| **Naziv projekta** | Mlađa |
-| **URL sajta uživo** | [https://mladja.milanwebportal.com](https://mladja.milanwebportal.com) |
-| **Tip** | Prodaja polovnih mašina |
-| **Primarni fokus** | B2C poverenje klijenata i brži pregled dostupnih mašina |
-| **Autor** | Milan Petkovski |
+## 💎 Premium Iskustvo
+Mlađa je moderna prodajna platforma specijalizovana za tržište polovnih veš mašina. Fokus projekta je na digitalizaciji tradicionalne prodaje, pružajući kupcima transparentnost, poverenje i alate koji olakšavaju donošenje odluke o kupovini pre prvog telefonskog poziva.
 
-## 🎯 Studija slučaja
+| Kategorija | Informacije |
+| :--- | :--- |
+| **🚀 Projekat** | Mlađa |
+| **🌐 URL** | [mladja.milanwebportal.com](https://mladja.milanwebportal.com) |
+| **🎨 Dizajn** | Modern / Service-oriented |
+| **🛠️ Tip** | Prodaja polovnih mašina |
+| **✍️ Autor** | Milan Petkovski |
+
+<br>
+
+## 🎯 Strategija i Ciljevi
 
 ### 🧩 Problem
-Preduzećima u uslužnim i proizvodnim delatnostima često nedostaje način da klijentima pruže trenutnu vrednost i precizne informacije o cenama pre prvog kontakta.
+Kupcima u "second-hand" industriji često nedostaje poverenje i precizne informacije o stanju i ceni proizvoda bez dugotrajnih upita. Prodavcima je, s druge strane, potreban efikasan način za upravljanje zalihama i upitima.
 
 ### 💡 Rešenje
-Sajt nudi interaktivno korisničko iskustvo kroz personalizovane alate, katalog proizvoda i administrativni sistem koji povezuje potražnju kupaca sa internim upravljanjem.
+Sajt nudi interaktivno iskustvo kroz katalog proizvoda sa detaljnim specifikacijama i administrativni sistem koji povezuje potražnju kupaca sa internim upravljanjem. Uveden je i napredni kalkulator za procenu troškova koji štedi vreme i kupcu i prodavcu.
 
-### ✅ Šta je rešeno
-✅ Automatizacija procesa prodaje putem interaktivnog kalkulatora <br>
-✅ Pregledna i sistematizovana prezentacija portfolija proizvoda <br>
-✅ Digitalizovano upravljanje upitima kroz administratorski panel <br>
-✅ Uspostavljen profesionalni kredibilitet kroz segmente o timu i viziji <br>
+### ✅ Rezultati
+*   **Automatizacija prodajnog procesa** kroz interaktivne alate za procenu.
+*   **Jasna i sistematizovana prezentacija** kompletnog portfolija proizvoda.
+*   **Digitalizovano upravljanje upitima** putem integrisanog administratorskog panela.
 
-## ✨ Ključne funkcionalnosti
+<br>
 
-`🔹` Napredni kalkulator za trenutnu procenu troškova <br>
-`🔹` Katalog proizvoda sa detaljnim specifikacijama <br>
-`🔹` Admin dashboard za praćenje ključnih operacija <br>
-`🔹` Validisani kontakt sistemi za sprečavanje neispravnih upita <br>
-`🔹` Dinamička prezentacija stručnog tima <br>
-`🔹` Arhitektura prilagođena brzoj navigaciji i lakom pronalaženju informacija <br>
+## ✨ Ključne Funkcionalnosti
 
-## 🚀 Tehnologije
+`💎` **Smart Calculator**: Napredni alat za trenutnu procenu troškova i ušteda. <br>
+`💎` **Product Catalog**: Pregledan prikaz svih mašina sa detaljnim tehničkim opisima. <br>
+`💎` **Admin Dashboard**: Centralizovani sistem za praćenje ključnih operacija i zaliha. <br>
+`💎` **Expert Team**: Dinamička prezentacija stručnog tima koja gradi dodatno poverenje. <br>
 
-`⚙️` Custom Vanilla JavaScript arhitektura <br>
-`⚙️` Optimizovan HTML5 i CSS3 layout <br>
-`⚙️` Modularni pristup razvoju komponenti <br>
-`⚙️` Client-side validacija podataka <br>
+<br>
 
-## 📈 SEO i performanse
+## 🛠️ Tech Stack & Optimizacija
 
-`⚡` Visoke performanse zahvaljujući laganom kodu bez eksternih biblioteka <br>
-`📱` Potpuna responzivnost sa fokusom na mobilne korisnike <br>
-`🧠` Logička hijerarhija informacija koja vodi korisnika ka akciji <br>
-`🔎` Semantički ispravan kod spreman za maksimalnu indeksaciju <br>
+`⚙️` **Arhitektura**: Custom Vanilla JavaScript za maksimalne performanse. <br>
+`⚙️` **Frontend**: Optimizovan HTML5 i CSS3 layout bez suvišnih biblioteka. <br>
+`⚙️` **Validacija**: Client-side validacija podataka za sprečavanje neispravnih upita. <br>
+`⚙️` **Performanse**: Izuzetno brzo učitavanje zahvaljujući modularnom pristupu. <br>
 
-## ✉️ Kontakt
+<br>
 
-`🌐` Sajt: https://milanwebportal.com <br>
-`📧` Email: contact@milanwebportal.com <br>
+## 📬 Kontakt
 
+`🌐` **Website**: [milanwebportal.com](https://milanwebportal.com) <br>
+`📧` **Email**: contact@milanwebportal.com <br>
+`💼` **LinkedIn**: [Milan Petkovski](https://linkedin.com/in/milan--petkovski) <br>
 
-
-
-
-
-
-
-
-
+---
+<p align="center">Made with ❤️ by Milan Web Portal</p>

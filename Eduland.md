@@ -1,81 +1,70 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=ffa600&center=true&vCenter=true&width=900&lines=EduLand;Pregled%20projekta;Web%20projekat" alt="EduLand Naslov koji se ispisuje" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=ffa600&center=true&vCenter=true&width=900&lines=EDULAND;Edukativna+Platforma;Pregled+projekta" alt="Eduland Naslov" />
 </p>
 
 <div align="center">
-  <img src="https://milanwebportal.com/images/Projects/website11.jpg" width="520px" alt="EduLand Snimak projekta" />
+  <img src="https://milanwebportal.com/images/Projects/website11.jpg" width="650px" style="border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.3);" alt="Eduland Preview" />
 </div>
 
 <p align="center">
   <a href="https://eduland.milanwebportal.com">
-    <img src="https://img.shields.io/badge/Visit-Website-ffa600?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Badge za posetu sajtu" />
+    <img src="https://img.shields.io/badge/POSETI-WEBSITE-ffa600?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Poseti Sajt" />
   </a>
 </p>
 
-## 🧊 Detalji projekta
+<br>
 
-| Ključni podatak | Vrednost |
-|---|---|
-| **Naziv projekta** | EduLand |
-| **URL sajta uživo** | [https://eduland.milanwebportal.com](https://eduland.milanwebportal.com) |
-| **Tip** | Edukativna platforma |
-| **Primarni fokus** | Upoznavanje programa i podsticaj prijave |
-| **Autor** | Milan Petkovski |
+## 💎 Premium Iskustvo
+Eduland je interaktivna edukativna platforma dizajnirana da spoji kvalitetne obrazovne programe sa modernim korisničkim iskustvom. Cilj projekta je maksimalna preglednost kurseva i instruktora, uz intuitivan proces prijave za studente.
 
-## 🎯 Case study
+| Kategorija | Informacije |
+| :--- | :--- |
+| **🚀 Projekat** | Eduland |
+| **🌐 URL** | [eduland.milanwebportal.com](https://eduland.milanwebportal.com) |
+| **🎨 Dizajn** | Modern Educational / Clean |
+| **🛠️ Tip** | Edukativna platforma |
+| **✍️ Autor** | Milan Petkovski |
+
+<br>
+
+## 🎯 Strategija i Ciljevi
 
 ### 🧩 Problem
-Edukativni sajtovi često ne uspevaju da jasno povežu programe, predavače i prijavu, pa korisnici gube fokus pre konverzije.
+Edukativni sajtovi često pate od prenatrpanosti informacijama, gde korisnici teško povezuju programe sa predavačima, što rezultira odustajanjem pre same prijave.
 
 ### 💡 Rešenje
-odredišna struktura je postavljena kroz jasan edukativni tok konverzije: uvodna, programi, predavači, blok za prijavu i podnožje sa servisnim informacijama.
+Struktura sajta je postavljena kroz jasan "edukativni tok": od uvodnog upoznavanja sa vizijom, preko detaljnih kartica programa (AI, Inženjering, Biznis), do sekcije sa predavačima koja gradi kredibilitet. Svaki segment vodi ka finalnom koraku – brzoj prijavi.
 
-### ✅ Šta je rešeno
-✅ Uspostavljen jasan put od upoznavanja do prijave <br>
-✅ Programi istaknuti kao primarni sadržajni blok <br>
-✅ Povećan kredibilitet kroz sekciju predavača <br>
-✅ Kontakt i poziv na akciju (CTA) za prijavu pozicionirani kao završni korak <br>
+### ✅ Rezultati
+*   **Uspostavljen jasan put** od prvog kontakta do finalne konverzije (prijave).
+*   **Programi su istaknuti** kao primarni sadržajni blokovi sa jasnim benefitima.
+*   **Povećano poverenje** korisnika kroz profesionalni prikaz biografija instruktora.
 
-## ✨ Ključne funkcionalnosti
+<br>
 
-`🔹` Program kartice za AI, Civil Engineering i Business Studies <br>
-`🔹` Instructor showcase sekcija <br>
-`🔹` Apply now poziv na akciju (CTA) segment <br>
-`🔹` Čista edukativna navigacija <br>
-`🔹` podnožje sa ključnim servisnim i kontakt informacijama <br>
-`🔹` Mobilno prilagođen raspored sekcija <br>
+## ✨ Ključne Funkcionalnosti
 
-## 🚀 Tehnologije
+`💎` **Course Cards**: Specijalizovani moduli za AI, Civil Engineering i Business studije. <br>
+`💎` **Instructor Showcase**: Detaljna sekcija posvećena predavačima i njihovoj ekspertizi. <br>
+`💎` **Smart Apply**: Optimizovan segment za prijavu koji minimizuje trenje. <br>
+`💎` **Educational UI**: Čista navigacija i fokus na čitljivost teksta. <br>
 
-`⚙️` HTML5 <br>
-`⚙️` CSS3 <br>
-`⚙️` JavaScript <br>
-`⚙️` Responzivan dizajn <br>
-`⚙️` odredišna-page conversion structure <br>
+<br>
 
-## 📈 SEO i performanse
+## 🛠️ Tech Stack & Optimizacija
 
-`⚡` Jasna hijerarhija naslova i prilagođena indeksiranju struktura sekcija <br>
-`📱` Prvo mobilni raspored sa fokusom na čitljivost i brzinu navigacije <br>
-`🧠` Konverzioni tok organizovan oko primarnih tačaka poziva na akciju (CTA) <br>
-`🔎` Metadata i informacijska arhitektura pripremljeni za bolju vidljivost <br>
+`⚙️` **Frontend**: HTML5, CSS3, JavaScript (ES6+). <br>
+`⚙️` **Dizajn**: Landing-page arhitektura optimizovana za edukativne konverzije. <br>
+`⚙️` **Optimizacija**: Maksimalna brzina učitavanja uz mobilno prilagođen raspored sekcija. <br>
+`⚙️` **SEO**: Hijerarhija naslova prilagođena ključnim rečima iz sveta obrazovanja. <br>
 
-## ✉️ Kontakt
+<br>
 
-`🌐` Sajt: https://milanwebportal.com <br>
-`📧` Email: contact@milanwebportal.com <br>
+## 📬 Kontakt
 
+`🌐` **Website**: [milanwebportal.com](https://milanwebportal.com) <br>
+`📧` **Email**: contact@milanwebportal.com <br>
+`💼` **LinkedIn**: [Milan Petkovski](https://linkedin.com/in/milan--petkovski) <br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
+<p align="center">Made with ❤️ by Milan Web Portal</p>

@@ -1,96 +1,78 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=d81a23&center=true&vCenter=true&width=900&lines=Diametrix%20Systems;Pregled%20projekta;Sajt%20industrijskih%20usluga" alt="Diametrix Systems Naslov koji se ispisuje" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=d81a23&center=true&vCenter=true&width=900&lines=DIAMETRIX+SYSTEMS;Industrijske+Usluge;Pregled+projekta" alt="Diametrix Systems Naslov" />
 </p>
 
 <div align="center">
-  <img src="https://milanwebportal.com/images/Projects/website8.jpg" width="520px" alt="Diametrix Systems Snimak projekta" />
+  <img src="https://milanwebportal.com/images/Projects/website8.jpg" width="650px" style="border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.3);" alt="Diametrix Systems Preview" />
 </div>
 
 <p align="center">
   <a href="https://diametrix-systems.com">
-    <img src="https://img.shields.io/badge/Visit-Website-d81a23?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Badge za posetu sajtu" />
+    <img src="https://img.shields.io/badge/POSETI-WEBSITE-d81a23?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Poseti Sajt" />
   </a>
 </p>
 
-## 🧊 Detalji projekta
+<br>
 
-| Ključni podatak | Vrednost |
-|---|---|
-| **Naziv projekta** | Diametrix Systems |
-| **URL sajta uživo** | [https://diametrix-systems.com](https://diametrix-systems.com) |
-| **Tip** | Sajt industrijskih usluga |
-| **Primarni fokus** | Generisanje upita za sečenje, bušenje i demontažu betona |
-| **Autor** | Milan Petkovski |
+## 💎 Premium Iskustvo
+Diametrix Systems predstavlja vrhunac preciznosti u industriji sečenja i bušenja betona. Sajt je dizajniran da reflektuje inženjersku tačnost, sigurnost i profesionalizam, pružajući B2B klijentima sve neophodne tehničke informacije na pregledan način.
 
-## 🌟 Recenzija klijenta
+| Kategorija | Informacije |
+| :--- | :--- |
+| **🚀 Projekat** | Diametrix |
+| **🌐 URL** | [diametrix-systems.com](https://diametrix-systems.com) |
+| **🎨 Dizajn** | Industrial / Engineering Focus |
+| **🛠️ Tip** | Sajt industrijskih usluga |
+| **✍️ Autor** | Milan Petkovski |
 
-> *Saradnja sa Milanom je bila ozbiljna i maksimalno efikasna od prvog dana.*
->
-> *Odlično je razumeo našu industriju i način na koji komuniciramo usluge, pa je sajt pogodio tačno ono što nam je trebalo za klijente i upite.*
->
-> *Posebno cenimo brzinu izrade, jasnu komunikaciju i to što je svaka sugestija bila implementirana praktično odmah.*
->
-> *Rezultat je moderan i profesionalan sajt koji izgleda odlično i radi besprekorno na svim uređajima.*
->
-> *Sve preporuke za Milana, pravi profesionalac.*
->
-> *- Diametrix Systems tim*
+<br>
 
-## 🎯 Case study
+## 🎯 Strategija i Ciljevi
 
 ### 🧩 Problem
-Industrijski klijenti traže izvođača sa visokim stepenom preciznosti, sigurnosti i minimalnim ometanjem objekta tokom zahtevnih radova.
+Industrijski klijenti traže izvođače koji garantuju maksimalnu preciznost, rad bez vibracija i minimalno ometanje objekta. Prethodni načini komunikacije nisu dovoljno naglašavali tehničku superiornost metoda rada.
 
 ### 💡 Rešenje
-Sajt fokusira komunikaciju na tehničke prednosti, metode rada bez vibracija i jasne servisne tokove (bušenje, sečenje, demontaža) uz više ulaznih poziv na akciju (CTA) tačaka za ponudu.
+Fokusirali smo komunikaciju na tehničke prednosti metoda bez vibracija i jasnu segmentaciju usluga (bušenje, sečenje, demontaža). Implementirana je struktura koja vodi korisnika od tehničkog razumevanja do brzog slanja upita za ponudu.
 
-### ✅ Šta je rešeno
-✅ Jasno objašnjene metode i tehničke prednosti po usluzi <br>
-✅ Konzistentno istaknuti sigurnost, čistoća i preciznost <br>
-✅ Više direktnih poziv na akciju (CTA) putanja do kontakt/ponuda stranica <br>
-✅ Pojačan autoritet kroz reference na partnerske standarde <br>
+### ✅ Rezultati
+*   **Jasno definisane metode** rada po svakoj pojedinačnoj usluzi.
+*   **Istaknuta sigurnost i preciznost** kao ključni prodajni argumenti.
+*   **Efikasan B2B tok** sa višestrukim tačkama konverzije.
 
-## ✨ Ključne funkcionalnosti
+<br>
 
-`🔹` Detaljne sekcije po usluzi: bušenje, sečenje, demontaža, obrada <br>
-`🔹` korist listovi sa industrijskim argumentima <br>
-`🔹` Servisne podstrane za dublje informisanje <br>
-`🔹` Kontakt podaci i lokalna prisutnost jasno istaknuti <br>
-`🔹` Tehnički narativ prilagođen B2B klijentima <br>
-`🔹` SEO struktura za uslužne upite <br>
+## ✨ Ključne Funkcionalnosti
 
-## 🚀 Tehnologije
+`💎` **Tehnički Servisi**: Detaljan pregled metoda bušenja i sečenja bez vibracija. <br>
+`💎` **Industrijski Argumenti**: Jasno istaknute prednosti za velike građevinske projekte. <br>
+`💎` **Smart Quote**: Optimizovan sistem za prikupljanje podataka o specifičnim radovima. <br>
+`💎` **Local SEO Hub**: Struktura prilagođena rangiranju za specifične industrijske upite. <br>
 
-`⚙️` HTML5 <br>
-`⚙️` CSS3 <br>
-`⚙️` JavaScript <br>
-`⚙️` usluga-page architecture <br>
-`⚙️` SEO-focused tekst blocks <br>
-`⚙️` Responzivan frontend <br>
+<br>
 
-## 📈 SEO i performanse
+## 🛠️ Tech Stack & Optimizacija
 
-`⚡` Jasna hijerarhija naslova i prilagođena indeksiranju struktura sekcija <br>
-`📱` Prvo mobilni raspored sa fokusom na čitljivost i brzinu navigacije <br>
-`🧠` Konverzioni tok organizovan oko primarnih tačaka poziva na akciju (CTA) <br>
-`🔎` Metadata i informacijska arhitektura pripremljeni za bolju vidljivost <br>
+`⚙️` **Frontend**: HTML5, CSS3, JavaScript (ES6+). <br>
+`⚙️` **Arhitektura**: Service-page struktura koja omogućava duboko informisanje o svakoj metodi. <br>
+`⚙️` **Optimizacija**: SEO blokovi teksta usmereni na industrijsku terminologiju. <br>
+`⚙️` **UX**: Responzivan interfejs prilagođen inženjerima i menadžerima na terenu. <br>
 
-## ✉️ Kontakt
+<br>
 
-`🌐` Sajt: https://milanwebportal.com <br>
-`📧` Email: contact@milanwebportal.com <br>
+## 🌟 Recenzija Klijenta
 
+> "Saradnja sa Milanom je bila ozbiljna i maksimalno efikasna od prvog dana. Odlično je razumeo našu industriju i način na koji komuniciramo usluge, pa je sajt pogodio tačno ono što nam je trebalo. Rezultat je moderan i profesionalan sajt koji radi besprekorno na svim uređajima."
+> 
+> — **Diametrix Systems tim**
 
+<br>
 
+## 📬 Kontakt
 
+`🌐` **Website**: [milanwebportal.com](https://milanwebportal.com) <br>
+`📧` **Email**: contact@milanwebportal.com <br>
+`💼` **LinkedIn**: [Milan Petkovski](https://linkedin.com/in/milan--petkovski) <br>
 
-
-
-
-
-
-
-
-
-
-
+---
+<p align="center">Made with ❤️ by Milan Web Portal</p>

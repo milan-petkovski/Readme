@@ -1,94 +1,78 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=bc201d&center=true&vCenter=true&width=900&lines=CM%20Agency;Pregled%20projekta;Sajt%20digitalne%20marketin%C5%A1ke%20agencije" alt="CM Agency Naslov koji se ispisuje" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=bc201d&center=true&vCenter=true&width=900&lines=CM+AGENCY;Marketing+Agencija;Pregled+projekta" alt="CM Agency Naslov" />
 </p>
 
 <div align="center">
-  <img src="https://milanwebportal.com/images/Projects/website3.jpg" width="520px" alt="CM Agency Snimak projekta" />
+  <img src="https://milanwebportal.com/images/Projects/website3.jpg" width="650px" style="border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.3);" alt="CM Agency Preview" />
 </div>
 
 <p align="center">
-  <a href="https://cmagency.netlify.app">
-    <img src="https://img.shields.io/badge/Visit-Website-bc201d?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Badge za posetu sajtu" />
+  <a href="https://cmagency.milanwebportal.com">
+    <img src="https://img.shields.io/badge/POSETI-WEBSITE-bc201d?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Poseti Sajt" />
   </a>
 </p>
 
-## 🧊 Detalji projekta
+<br>
 
-| Ključni podatak | Vrednost |
-|---|---|
-| **Naziv projekta** | CM Agency |
-| **URL sajta uživo** | [https://cmagency.netlify.app](https://cmagency.netlify.app) |
-| **Tip** | Sajt digitalne marketinške agencije |
-| **Primarni fokus** | Generisanje upita za kreativne i marketinške usluge |
-| **Autor** | Milan Petkovski |
+## 💎 Premium Iskustvo
+CM Agency je digitalna marketinška agencija koja zahteva vizuelno moćnu i tehnički besprekornu platformu. Sajt je dizajniran da reflektuje brzinu, kreativnost i profesionalizam agencije, pružajući klijentima jasan uvid u portfolio i usluge.
 
-## 🌟 Recenzija klijenta
+| Kategorija | Informacije |
+| :--- | :--- |
+| **🚀 Projekat** | CM Agency |
+| **🌐 URL** | [cmagency.milanwebportal.com](https://cmagency.milanwebportal.com) |
+| **🎨 Dizajn** | Creative Agency / High-Contrast |
+| **🛠️ Tip** | Sajt digitalne agencije |
+| **✍️ Autor** | Milan Petkovski |
 
-> *Imao sam veliko zadovoljstvo da sarađujem sa Milanom i mogu reći samo reči hvale.*
->
-> *Njegova posvećenost i angažovanost su na vrhunskom nivou - uvek je dostupan i spreman da pomogne.*
->
-> *Ono što ga izdvaja je neverovatna brzina rada bez kompromisa na kvalitetu, sajtovi koje kreira su ne samo funkcionalni, već i vizuelno impresivni.*
->
-> *Milan je izuzetno profesionalan u pristupu, a čak i kada su potrebne naknadne ispravke, on ih rešava u rekordnom roku.*
->
-> *Ako tražite nekoga ko spaja kreativnost, efikasnost i sjajnu komunikaciju, Milan je pravi izbor!*
+<br>
 
-## 🎯 Case study
+## 🎯 Strategija i Ciljevi
 
 ### 🧩 Problem
-Klijenti agencije imaju potrebu za jednim partnerom koji pokriva web, video i rast na društvenim mrežama, bez rasutih dobavljača i nejasne odgovornosti.
+Klijenti agencije imaju potrebu za pouzdanim partnerom koji pokriva sve: od web dizajna do video produkcije i vođenja mreža, bez gubitka vremena na više različitih dobavljača.
 
 ### 💡 Rešenje
-Sajt je organizovan kao mašina za upite: jasna prezentacija usluga, portfolio sadržaj i svedočenja klijenata i detaljna kontakt forma sa kvalifikacijom upita (budžet/usluge/opis projekta).
+Sajt je postavljen kao prava "mašina za upite". Fokus je na jasnoj prezentaciji paketa usluga, interaktivnoj Reels sekciji i detaljnoj kontakt formi koja unapred kvalifikuje klijente kroz polja za budžet i scope projekta.
 
-### ✅ Šta je rešeno
-✅ Objedinjena prezentacija svih core usluga na jednom mestu <br>
-✅ Povećana jasnoća ponude kroz kartice usluga i poziv na akciju (CTA) dugmad <br>
-✅ Dokaz kredibiliteta kroz radove i klijentske utiske <br>
-✅ Kvalifikacija upitova kroz detaljnu formu <br>
+### ✅ Rezultati
+*   **Objedinjena prezentacija** svih core usluga na jednom intuitivnom mestu.
+*   **Povećana konverzija** kroz strateški postavljene pozive na akciju.
+*   **Vrhunski kredibilitet** potkrepljen portfoliom i realnim klijentskim utiscima.
 
-## ✨ Ključne funkcionalnosti
+<br>
 
-`🔹` Paket usluga: kratka forma videa, izrada web sajtova, editovanje, vođenje mreža, fotografija, upravljanje kampanjama <br>
-`🔹` Portfolio/reels sekcija sa realnim radovima <br>
-`🔹` Svedočenja klijenata kao sloj poverenja <br>
-`🔹` Blog/novosti sekcija za content marketing <br>
-`🔹` Multi-page legal i info stranice (Najčešća pitanja, privacy, terms) <br>
-`🔹` Kontakt forma sa budžet i scope poljima <br>
+## ✨ Ključne Funkcionalnosti
 
-## 🚀 Tehnologije
+`💎` **Full-Service Paket**: Od izrade sajtova do vođenja kampanja i fotografije. <br>
+`💎` **Reels Showcase**: Posebna sekcija za video radove visokog kvaliteta. <br>
+`💎` **Smart Onboarding**: Kontakt forma sa poljima za preciznu definiciju projekta. <br>
+`💎` **Content Engine**: Integrisana blog sekcija za edukaciju klijenata i SEO. <br>
 
-`⚙️` HTML5 <br>
-`⚙️` CSS3 <br>
-`⚙️` JavaScript <br>
-`⚙️` Responzivan raspored <br>
-`⚙️` Netlify postavljanje <br>
-`⚙️` SEO-ready structure <br>
+<br>
 
-## 📈 SEO i performanse
+## 🛠️ Tech Stack & Optimizacija
 
-`⚡` Jasna hijerarhija naslova i prilagođena indeksiranju struktura sekcija <br>
-`📱` Prvo mobilni raspored sa fokusom na čitljivost i brzinu navigacije <br>
-`🧠` Konverzioni tok organizovan oko primarnih tačaka poziva na akciju (CTA) <br>
-`🔎` Metadata i informacijska arhitektura pripremljeni za bolju vidljivost <br>
+`⚙️` **Frontend**: HTML5, CSS3, JavaScript (ES6+). <br>
+`⚙️` **Performanse**: Optimizovan build na Netlify platformi za maksimalnu brzinu. <br>
+`⚙️` **Struktura**: Multi-page arhitektura sa posebnim fokusom na Legal i FAQ stranice. <br>
+`⚙️` **SEO**: Napredna semantička struktura prilagođena marketinškim ključnim rečima. <br>
 
-## ✉️ Kontakt
+<br>
 
-`🌐` Sajt: https://milanwebportal.com <br>
-`📧` Email: contact@milanwebportal.com <br>
+## 🌟 Recenzija Klijenta
 
+> "Imao sam veliko zadovoljstvo da sarađujem sa Milanom i mogu reći samo reči hvale. Njegova posvećenost i angažovanost su na vrhunskom nivou - uvek je dostupan i spreman da pomogne. Ono što ga izdvaja je neverovatna brzina rada bez kompromisa na kvalitetu, sajtovi koje kreira su vizuelno impresivni."
+> 
+> — **Osnivač CM Agency**
 
+<br>
 
+## 📬 Kontakt
 
+`🌐` **Website**: [milanwebportal.com](https://milanwebportal.com) <br>
+`📧` **Email**: contact@milanwebportal.com <br>
+`💼` **LinkedIn**: [Milan Petkovski](https://linkedin.com/in/milan--petkovski) <br>
 
-
-
-
-
-
-
-
-
-
-
+---
+<p align="center">Made with ❤️ by Milan Web Portal</p>

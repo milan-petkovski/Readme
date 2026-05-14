@@ -1,75 +1,70 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=f57113&center=true&vCenter=true&width=900&lines=Mipex;Pregled%20projekta;Sajt%20logistike%20i%20transporta" alt="Mipex Naslov koji se ispisuje" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=f57113&center=true&vCenter=true&width=900&lines=MIPEX;Logistika+i+Transport;Pregled+projekta" alt="Mipex Naslov" />
 </p>
 
 <div align="center">
-  <img src="https://milanwebportal.com/images/Projects/website14.jpg" width="520px" alt="Mipex Snimak projekta" />
+  <img src="https://milanwebportal.com/images/Projects/website14.jpg" width="650px" style="border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.3);" alt="Mipex Preview" />
 </div>
 
 <p align="center">
   <a href="https://mipex.milanwebportal.com">
-    <img src="https://img.shields.io/badge/Visit-Website-f57113?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Badge za posetu sajtu" />
+    <img src="https://img.shields.io/badge/POSETI-WEBSITE-f57113?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Poseti Sajt" />
   </a>
 </p>
 
-## 🧊 Detalji projekta
+<br>
 
-| Ključni podatak | Vrednost |
-|---|---|
-| **Naziv projekta** | Mipex |
-| **URL sajta uživo** | [https://mipex.milanwebportal.com](https://mipex.milanwebportal.com) |
-| **Tip** | Sajt logistike i transporta |
-| **Primarni fokus** | B2B poverenje i generisanje upita za transportne usluge |
-| **Autor** | Milan Petkovski |
+## 💎 Premium Iskustvo
+Mipex je korporativna veb prezentacija namenjena jednoj od vodećih kompanija u sektoru logistike i transporta. Sajt je dizajniran da reflektuje operativnu pouzdanost, preciznost i snagu flote, pružajući B2B partnerima jasan uvid u kapacitete i domet usluga kompanije.
 
-## 🎯 Studija slučaja
+| Kategorija | Informacije |
+| :--- | :--- |
+| **🚀 Projekat** | Mipex |
+| **🌐 URL** | [mipex.milanwebportal.com](https://mipex.milanwebportal.com) |
+| **🎨 Dizajn** | Corporate / Industrial / Trust-based |
+| **🛠️ Tip** | Sajt logistike i transporta |
+| **✍️ Autor** | Milan Petkovski |
+
+<br>
+
+## 🎯 Strategija i Ciljevi
 
 ### 🧩 Problem
-Logističke kompanije moraju jasno prikazati operativnu pouzdanost, kapacitete flote i domet usluga kako bi dobile ozbiljne B2B upite.
+Logističke kompanije moraju odmah da dokažu svoju pouzdanost i kapacitete kako bi privukle ozbiljne B2B partnere. Klasični sajtovi često ne uspevaju da pregledno prikažu raznolikost flote i specifičnosti transportnih ruta.
 
 ### 💡 Rešenje
-Sajt koristi enterprise strukturu: company authority, servisni moduli, detalji flote, operativne metrike i formular za ponudu.
+Sajt koristi "Enterprise" strukturu sa fokusom na autoritet kompanije. Implementirani su specifični servisni moduli za međunarodni transport, skladištenje i kabasti teret, uz vizuelno upečatljiv prikaz flote i operativnih metrika koje grade poverenje kod donosioca odluka.
 
-### ✅ Šta je rešeno
-✅ Jasno pozicioniran MIPEX kao dugogodišnji logistički partner <br>
-✅ Servisi razdvojeni po poslovnim scenarijima upotrebe <br>
-✅ Flota prikazana kroz konkretne kapacitete <br>
-✅ Kontakt i quote tok optimizovani za B2B upite <br>
+### ✅ Rezultati
+*   **Jasno pozicioniran Mipex** kao stabilan i dugogodišnji logistički partner.
+*   **Efikasna segmentacija servisa** prema potrebama različitih poslovnih sektora.
+*   **Optimizovan proces slanja upita** za ponude, čime je ubrzan proces prodaje.
 
-## ✨ Ključne funkcionalnosti
+<br>
 
-`🔹` Sekcije za međunarodni transport, skladištenje i kabasti teret <br>
-`🔹` Flota sa tipovima vozila i kapacitetima <br>
-`🔹` Statistika poverenja i iskustva <br>
-`🔹` Quote/contact forma u završnom delu <br>
-`🔹` Jasna navigacija za ključne poslovne informacije <br>
-`🔹` B2B orijentisana struktura teksta <br>
+## ✨ Ključne Funkcionalnosti
 
-## 🚀 Tehnologije
+`💎` **Fleet Showcase**: Detaljan prikaz tipova vozila i njihovih transportnih kapaciteta. <br>
+`💎` **Service Hub**: Moduli za međunarodni transport, skladištenje i specijalne terete. <br>
+`💎` **Trust Metrics**: Statistika koja potvrđuje iskustvo i uspešno realizovane transporte. <br>
+`💎` **B2B Quote System**: Optimizovana forma za brzo dobijanje personalizovanih ponuda. <br>
 
-`⚙️` Moderna frontend arhitektura <br>
-`⚙️` Responzivan dizajn <br>
-`⚙️` Section-based storytelling <br>
-`⚙️` SEO-ready corporate content <br>
+<br>
 
-## 📈 SEO i performanse
+## 🛠️ Tech Stack & Optimizacija
 
-`⚡` Jasna hijerarhija naslova i prilagođena indeksiranju struktura sekcija <br>
-`📱` Prvo mobilni raspored sa fokusom na čitljivost i brzinu navigacije <br>
-`🧠` Konverzioni tok organizovan oko primarnih tačaka poziva na akciju (CTA) <br>
-`🔎` Metadata i informacijska arhitektura pripremljeni za bolju vidljivost <br>
+`⚙️` **Frontend**: Moderna arhitektura zasnovana na HTML5, CSS3 i JavaScript (ES6+). <br>
+`⚙️` **Dizajn**: Section-based storytelling prilagođen korporativnim korisnicima. <br>
+`⚙️` **Performanse**: Maksimalna brzina učitavanja ključnih poslovnih informacija. <br>
+`⚙️` **SEO**: Korporativni sadržaj optimizovan za relevantne logističke ključne reči. <br>
 
-## ✉️ Kontakt
+<br>
 
-`🌐` Sajt: https://milanwebportal.com <br>
-`📧` Email: contact@milanwebportal.com <br>
+## 📬 Kontakt
 
+`🌐` **Website**: [milanwebportal.com](https://milanwebportal.com) <br>
+`📧` **Email**: contact@milanwebportal.com <br>
+`💼` **LinkedIn**: [Milan Petkovski](https://linkedin.com/in/milan--petkovski) <br>
 
-
-
-
-
-
-
-
-
+---
+<p align="center">Made with ❤️ by Milan Web Portal</p>
