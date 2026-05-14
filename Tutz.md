@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://milanwebportal.com/images/Projects/website1.jpg" width="900px" style="border-radius: 30px; box-shadow: 0 40px 80px rgba(0,0,0,0.6);" alt="Tutz Banner" />
+  <img src="https://milanwebportal.com/images/Projects/website4.jpg" width="900px" style="border-radius: 30px; box-shadow: 0 40px 80px rgba(0,0,0,0.6);" alt="Tutz Banner" />
 </div>
 
 <p align="center">
@@ -80,4 +80,4 @@ Autor: Milan Petkovski (Milan Web Portal) <br>
 Email: contact@milanwebportal.com <br>
 
 ---
-<p align="center">Made with ❤️ by <b>Milan Petkovski</b></p>
+<p align="center">Made with ❤️ by <b>Milan Web Portal</b></p>
