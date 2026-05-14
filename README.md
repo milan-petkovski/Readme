@@ -18,11 +18,11 @@ Svaki `.md` fajl u ovom repozitorijumu predstavlja dokumentaciju za jedan specif
 *   [**Milan Web Portal**](Milan%20Web%20Portal.md)
 *   [**All In One Extension**](All%20In%20One.md)
 *   [**GEO Ride Simulator**](GEO%20Ride.md)
-*   [**GymGO Ecosystem**](GymGO.md)
+*   [**GymGO Application**](GymGO.md)
 
 ---
 
 <div align="center">
   <p><b>Zvanični sajt:</b> <a href="https://milanwebportal.com">milanwebportal.com</a></p>
-  <p>Made with ❤️ by <b>Milan Petkovski</b></p>
+  <p align="center">Made with ❤️ by Milan Web Portal</p>
 </div>
