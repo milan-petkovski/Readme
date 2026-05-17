@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3500&pause=1000&color=d3ad7f&center=true&vCenter=true&width=1000&lines=MILAN+WEB+PORTAL;Full+Stack+Web+Developer;Arhitekta+Digitalnih+Ekosistema;Strateški+UI%2FUX+%26+Menadžment" alt="Milan Petkovski Naslov" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3500&pause=1000&color=d3ad7f&center=true&vCenter=true&width=1000&lines=MILAN+WEB+PORTAL;Full+Stack+Web+Developer;Arhitekta+Digitalnih+Ekosistema;Strate%C5%A1ki+UI%2FUX+%26+Menad%C5%BEment" alt="Milan Petkovski Naslov" />
 </p>
 
 <div align="center">

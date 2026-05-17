@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=d5a428&center=true&vCenter=true&width=900&lines=KETERING+KAROVIĆ;Sajt+ketering+kompanije;Pregled+projekta" alt="Ketering Karovic Naslov" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=d5a428&center=true&vCenter=true&width=900&lines=KETERING+KAROVI%C4%86;Sajt+ketering+kompanije;Pregled+projekta" alt="Ketering Karovic Naslov" />
 </p>
 
 <div align="center">

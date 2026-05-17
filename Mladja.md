@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=29b6f6&center=true&vCenter=true&width=900&lines=MLAĐA;Polovne+Veš+Mašine;Pregled+projekta" alt="Mlađa Naslov" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=29b6f6&center=true&vCenter=true&width=900&lines=MLA%C4%90A;Polovne+Ve%C5%A1+Ma%C5%A1ine;Pregled+projekta" alt="Mlađa Naslov" />
 </p>
 
 <div align="center">

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=ffc44d&center=true&vCenter=true&width=900&lines=CFC;Kripto+Menjačnica;Pregled+projekta" alt="CFC Naslov" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=ffc44d&center=true&vCenter=true&width=900&lines=CFC;Kripto+Menja%C4%8Dnica;Pregled+projekta" alt="CFC Naslov" />
 </p>
 
 <div align="center">

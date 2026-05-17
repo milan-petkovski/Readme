@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=5c3b23&center=true&vCenter=true&width=900&lines=PRŽIONICA;Zanatska+Kafa;Pregled+projekta" alt="Przionica Naslov" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=5c3b23&center=true&vCenter=true&width=900&lines=PR%C5%BDIONICA;Zanatska+Kafa;Pregled+projekta" alt="Przionica Naslov" />
 </p>
 
 <div align="center">

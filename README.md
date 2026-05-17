@@ -16,9 +16,9 @@ Svaki `.md` fajl u ovom repozitorijumu predstavlja dokumentaciju za jedan specif
 
 ## 🚀 Brzi linkovi (Flagship projekti)
 *   [**Milan Web Portal**](Milan%20Web%20Portal.md)
-*   [**All In One Extension**](All%20In%20One.md)
-*   [**GEO Ride Simulator**](GEO%20Ride.md)
-*   [**GymGO Application**](GymGO.md)
+*   [**GEO Ride Simulator**](https://github.com/milan-petkovski/GEO-Ride/blob/main/README.md)
+*   [**All In One Extension**](https://github.com/milan-petkovski/All-In-One/blob/main/README.md)
+*   [**GymGO Application**](https://github.com/milan-petkovski/GymGO/blob/main/README.md)
 
 ---
 
