@@ -61,8 +61,8 @@ Razvili smo "single-goal" format: snažan headline koji pogađa srž problema pu
 <br>
 
 ## 🌟 Recenzija Klijenta
-
-> "Imao sam veliko zadovoljstvo da sarađujem sa Milanom i mogu reći samo reči hvale. Njegova posvećenost i angažovanost su na vrhunskom nivou - uvek je dostupan i spreman da pomogne. Ono što ga izdvaja je neverovatna brzina rada bez kompromisa na kvalitetu, sajtovi koje kreira su vizuelno impresivni."
+ 
+> "Milan je savršeno preneo našu filozofiju smirenosti i mentalnog zdravlja u digitalni prostor. Sajt ne samo da izgleda prelepo i minimalistički, već je prodaja naših eBook vodiča skočila za preko 40% u prvom mesecu nakon lansiranja nove platforme."
 > 
 > — **Osnivač Leafy Mindset**
 

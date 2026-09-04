@@ -77,8 +77,8 @@ Dizajn je proces rešavanja problema, a ne samo estetika.
 
 | Tehnologija | Primena | Benefit za Biznis |
 | :--- | :--- | :--- |
-| **Vite 8 & React 19** | Moderni Frontend | Munjevita brzina i SPA fluidnost. |
-| **Tailwind CSS 4** | Stilizacija | Konzistentan vizuelni identitet i brz razvoj. |
+| **Vite 8 & Vanilla JS** | Moderni Frontend | Munjevita brzina, čist kod i fluidan SPA doživljaj. |
+| **Tailwind CSS 3.4** | Stilizacija | Konzistentan vizuelni identitet i optimizovan CSS. |
 | **GSAP & Three.js** | Animacije & 3D | Imerizivno iskustvo koje zadržava pažnju. |
 | **Supabase & Notion API** | Podaci & Backend | Sigurnost podataka i real-time sinhronizacija. |
 | **Netlify Functions** | Serverless rešenja | Live integracije (poput mog GitHub putokaza). |

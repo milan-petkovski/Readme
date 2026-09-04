@@ -62,7 +62,7 @@ Prodavnica je strukturirana kao direktan prodajni levak. Svaki proizvod je preds
 
 ## 🌟 Recenzija Klijenta
 
-> "Imao sam veliko zadovoljstvo da sarađujem sa Milanom i mogu reći samo reči hvale. Njegova posvećenost i angažovanost su na vrhunskom nivou - uvek je dostupan i spreman da pomogne. Sajtovi koje kreira su ne samo funkcionalni, već i vizuelno impresivni."
+> "Prelazak na custom prodavnicu bio je pun pogodak. Fanovi završavaju kupovinu u tri klika, nema više zastoja i pada sistema tokom live stream dropova, a celokupan proces naručivanja teče besprekorno."
 > 
 > — **Tutz Shop Director**
 

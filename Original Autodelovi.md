@@ -60,11 +60,11 @@ Razvijena je namenska forma za VIN brzi upit sa trenutnom validacijom broja šas
 
 <br>
 
-## 🌟 O Klijentu
+## 🌟 Recenzija Klijenta
 
-> "Preko 20 godina iskustva u prodaji originalnih i zamenskih auto-delova garantuje pouzdanost, tačnost i najbržu dostavu na celoj teritoriji Srbije."
+> "Sajt nam je doneo ogroman broj novih poziva i upita za delove već u prve dve nedelje. Milan je sve postavio neverovatno pregledno — majstori i kupci odmah pronađu tačno ono što traže bez lutanja, a porudžbine stižu brzo i bez greške. Prava profesionalna saradnja!"
 > 
-> — **Original Auto Delovi Niš**
+> — **Original Auto Delovi Niš tim**
 
 <br>
 

@@ -42,11 +42,11 @@ Premium e-commerce rešenje integrisano direktno u ekosistem, optimizovano za pr
 
 | Tehnologija | Primena | Benefit |
 | :--- | :--- | :--- |
-| **Vite 8.0.13** | Build alat | Munjevito učitavanje i razvoj. |
-| **React 19** | Core Framework | Najnovija arhitektura sa nula laga u UI tranzicijama. |
-| **GSAP** | Animacije | Premium osećaj i fluidnost pokreta. |
-| **Supabase** | Backend & Podaci | Sigurnost i real-time sinhronizacija baze. |
-| **Tailwind CSS 4** | Dizajn sistem | Ultra-lagan CSS za vrhunske performanse. |
+| **Vite 8** | Build alat | Munjevito učitavanje i monorepo razvoj. |
+| **Vanilla JS (ES6+)** | Core Arhitektura | Maksimalna brzina izvođenja bez overhead-a teških frameworka. |
+| **Tailwind CSS 3.4** | Shop Stilizacija | Brz, utility-first dizajn prilagođen e-commerce komponentama. |
+| **Supabase** | Backend & Real-time | Sigurnost podataka, autentifikacija i real-time sinhronizacija. |
+| **GSAP** | Animacije | Fluidni pokreti i interaktivne giveaway/kviz tranzicije. |
 
 ---
 

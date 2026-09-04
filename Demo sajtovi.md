@@ -33,7 +33,7 @@ Svaki projekat je izgrađen sa specifičnim ciljem: dokazati da je vrhunsko digi
 | **Restoranvizija** | Fine Dining / Fusion | Vizuelni storytelling i premium UX rezervacija. |
 | **Vegeterija** | Zdravlje i Lifestyle | Sveža, vibrantna estetika sa munjevitim učitavanjem. |
 | **Chicolata mazz** | Luksuzna proizvodnja | Glassmorphism i fluidni pokreti proizvoda. |
-| **Grilli** | Klasičan Steakhouse | Tamni dizajn koji odmah budi apetit. |
+| **Grilli Steakhouse** | Klasičan Steakhouse | Tamni kulinarski koncept sa fokusom na apetit i rezervacije. |
 | **Kafana Prijepolje** | Tradicija / Etno | Spoj tradicionalnog gostoprimstva i moderne pristupačnosti. |
 | **Eco Coolers Pro** | B2B / Industrija | Čist, profesionalan layout fokusiran na lead generaciju. |
 | **Elena Vance** | Lični Brending | Minimalistički portfolio sa fokusom na tipografiju. |
