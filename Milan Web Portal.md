@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://milanwebportal.com/images/Projects/website1.jpg" width="950px" style="border-radius: 30px; box-shadow: 0 40px 80px rgba(0,0,0,0.6);" alt="Milan Web Portal Banner" />
+  <img src="https://milanwebportal.com/images/Projects/website1.webp" width="950px" style="border-radius: 30px; box-shadow: 0 40px 80px rgba(0,0,0,0.6);" alt="Milan Web Portal Banner" />
 </div>
 
 <p align="center">

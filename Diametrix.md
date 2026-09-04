@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://milanwebportal.com/images/Projects/website8.jpg" width="650px" style="border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.3);" alt="Diametrix Systems Preview" />
+  <img src="https://milanwebportal.com/images/Projects/website8.webp" width="650px" style="border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.3);" alt="Diametrix Systems Preview" />
 </div>
 
 <p align="center">
