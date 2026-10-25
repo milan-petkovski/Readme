@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://milanwebportal.com/images/Projects/website1.webp" width="950px" style="border-radius: 30px; box-shadow: 0 40px 80px rgba(0,0,0,0.6);" alt="Milan Web Portal Banner" />
+  <img src="https://milanwebportal.com/images/Projects/milanwebportal.webp" width="950px" style="border-radius: 30px; box-shadow: 0 40px 80px rgba(0,0,0,0.6);" alt="Milan Web Portal Banner" />
 </div>
 
 <p align="center">
@@ -123,4 +123,4 @@ Kada radite sa mnom, ne plaćate "radne sate", već **rezultat**.
 </div>
 <br>
 
-<p align="center">Made with ❤️ by <b>Milan Petkovski</b></p>
+<p align="center">Made with ❤️ by <b>Milan Web Portal</b></p>

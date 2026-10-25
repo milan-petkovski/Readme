@@ -72,4 +72,4 @@ Iza marketinga stoji robustan razvojni setup:
     ```
 
 ---
-<p align="center">Made with ❤️ by <b>Milan Petkovski</b></p>
+<p align="center">Made with ❤️ by <b>Milan Web Portal</b></p>

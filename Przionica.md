@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://milanwebportal.com/images/Projects/website17.webp" width="650px" style="border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.3);" alt="Przionica Preview" />
+  <img src="https://milanwebportal.com/images/Projects/przionica.webp" width="650px" style="border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.3);" alt="Przionica Preview" />
 </div>
 
 <p align="center">
@@ -67,4 +67,4 @@ Sajt spaja brend narativ o poreklu kafe sa jasnom navigacijom kroz jelovnik i ka
 `💼` **LinkedIn**: [Milan Petkovski](https://linkedin.com/in/milan--petkovski) <br>
 
 ---
-<p align="center">Made with ❤️ by Milan Web Portal</p>
+<p align="center">Made with ❤️ by <b>Milan Web Portal</b></p>

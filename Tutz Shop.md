@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://milanwebportal.com/images/Projects/website21.webp" width="650px" style="border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.3);" alt="Tutz Shop Preview" />
+  <img src="https://milanwebportal.com/images/Projects/tutzshop.webp" width="650px" style="border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.3);" alt="Tutz Shop Preview" />
 </div>
 
 <p align="center">
@@ -75,4 +75,4 @@ Prodavnica je strukturirana kao direktan prodajni levak. Svaki proizvod je preds
 `💼` **LinkedIn**: [Milan Petkovski](https://linkedin.com/in/milan--petkovski) <br>
 
 ---
-<p align="center">Made with ❤️ by Milan Web Portal</p>
+<p align="center">Made with ❤️ by <b>Milan Web Portal</b></p>

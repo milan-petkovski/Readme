@@ -43,5 +43,5 @@ Every contribution directly supports server infrastructure, domain maintenance, 
 
 <div align="center">
   <p><b>Official Website:</b> <a href="https://milanwebportal.com">milanwebportal.com</a></p>
-  <p align="center">Crafted with precision by Milan Web Portal</p>
+  <p align="center">Made with ❤️ by <b>Milan Web Portal</b></p>
 </div>
