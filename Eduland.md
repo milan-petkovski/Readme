@@ -33,7 +33,7 @@ Eduland je interaktivna edukativna platforma dizajnirana da spoji kvalitetne obr
 Edukativni sajtovi često pate od prenatrpanosti informacijama, gde korisnici teško povezuju programe sa predavačima, što rezultira odustajanjem pre same prijave.
 
 ### 💡 Rešenje
-Struktura sajta je postavljena kroz jasan "edukativni tok": od uvodnog upoznavanja sa vizijom, preko detaljnih kartica programa (AI, Inženjering, Biznis), do sekcije sa predavačima koja gradi kredibilitet. Svaki segment vodi ka finalnom koraku – brzoj prijavi.
+Struktura sajta je postavljena kroz jasan "edukativni tok": od uvodnog upoznavanja sa vizijom, preko detaljnih kartica programa (AI, Inženjering, Biznis), do sekcije sa predavačima koja gradi kredibilitet. Svaki segment vodi ka finalnom koraku: brzoj prijavi.
 
 ### ✅ Rezultati
 *   **Uspostavljen jasan put** od prvog kontakta do finalne konverzije (prijave).
@@ -53,18 +53,30 @@ Struktura sajta je postavljena kroz jasan "edukativni tok": od uvodnog upoznavan
 
 ## 🛠️ Tech Stack & Optimizacija
 
-`⚙️` **Frontend**: HTML5, CSS3, JavaScript (ES6+). <br>
-`⚙️` **Dizajn**: Landing-page arhitektura optimizovana za edukativne konverzije. <br>
-`⚙️` **Optimizacija**: Maksimalna brzina učitavanja uz mobilno prilagođen raspored sekcija. <br>
-`⚙️` **SEO**: Hijerarhija naslova prilagođena ključnim rečima iz sveta obrazovanja. <br>
-
-<br>
+`⚙️` **Frontend**: HTML5, Tailwind CSS, PostCSS, Autoprefixer, JavaScript (ES6+). <br>
+`⚙️` **Build Sistem**: Vite ultra-brzi bundler za optimalnu distribuciju statičkih asset-a. <br>
+`⚙️` **Dizajn**: Landing-page arhitektura optimizovana za maksimalnu stopu prijave studenata. <br>
+`⚙️` **SEO & Pristupačnost**: Semantička hijerarhija prilagođena obrazovnim pretragama i visokom kontrastu. <br>
 
 ## 📬 Kontakt
 
 `🌐` **Website**: [milanwebportal.com](https://milanwebportal.com) <br>
 `📧` **Email**: contact@milanwebportal.com <br>
 `💼` **LinkedIn**: [Milan Petkovski](https://linkedin.com/in/milan--petkovski) <br>
+`💖` **Podrška**: [Support via PayPal](https://paypal.me/milanwebportal)
 
 ---
+
+## ☕ The Story & Support
+
+Hi! I am Milan, a 20-year-old web developer and student from Serbia. I build high-performance web applications, digital ecosystems, and tailored software solutions for businesses and creators.
+
+If you appreciate my work, open-source projects, or client platforms, and want to support my late-night coding sessions, you can support my work:
+
+💖 [Support my work via PayPal](https://paypal.me/milanwebportal)
+
+Every contribution helps me maintain servers, build new open-source initiatives, and push the boundaries of modern web engineering. Thank you!
+
+---
+
 <p align="center">Made with ❤️ by <b>Milan Web Portal</b></p>

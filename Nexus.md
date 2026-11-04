@@ -53,18 +53,30 @@ Nexus koristi "Premium Product Narrative" pristup. Strukturiran je tako da vodi 
 
 ## 🛠️ Tech Stack & Optimizacija
 
-`⚙️` **Frontend**: Moderna arhitektura optimizovana za vizuelno bogat sadržaj. <br>
-`⚙️` **Media Handling**: Napredno upravljanje slikama i video materijalima za maksimalne performanse. <br>
-`⚙️` **UX**: Intuitivni obrasci konfiguratora dizajnirani za visoku angažovanost. <br>
-`⚙️` **SEO**: Informacijska arhitektura pripremljena za rangiranje auto-moto ključnih reči. <br>
-
-<br>
+`⚙️` **Core Stack**: React 18, TypeScript, Vite, Bun / npm. <br>
+`⚙️` **Styling & UI**: Tailwind CSS, Radix UI Primitives, Lucide Icons, futuristički glassmorphism elementi. <br>
+`⚙️` **Interaktivnost**: Dynamic vehicle configurator komponente, React Hook Form, Zod. <br>
+`⚙️` **Performanse**: 60fps renderovanje, lazy loading teških asset-a i optimizovan production bundle. <br>
 
 ## 📬 Kontakt
 
 `🌐` **Website**: [milanwebportal.com](https://milanwebportal.com) <br>
 `📧` **Email**: contact@milanwebportal.com <br>
 `💼` **LinkedIn**: [Milan Petkovski](https://linkedin.com/in/milan--petkovski) <br>
+`💖` **Podrška**: [Support via PayPal](https://paypal.me/milanwebportal)
 
 ---
+
+## ☕ The Story & Support
+
+Hi! I am Milan, a 20-year-old web developer and student from Serbia. I build high-performance web applications, digital ecosystems, and tailored software solutions for businesses and creators.
+
+If you appreciate my work, open-source projects, or client platforms, and want to support my late-night coding sessions, you can support my work:
+
+💖 [Support my work via PayPal](https://paypal.me/milanwebportal)
+
+Every contribution helps me maintain servers, build new open-source initiatives, and push the boundaries of modern web engineering. Thank you!
+
+---
+
 <p align="center">Made with ❤️ by <b>Milan Web Portal</b></p>

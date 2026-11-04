@@ -53,18 +53,16 @@ Razvijena je namenska forma za VIN brzi upit sa trenutnom validacijom broja šas
 
 ## 🛠️ Tech Stack & Optimizacija
 
-`⚙️` **Frontend**: Semantički HTML5, Tailwind CSS, moderni JavaScript (ES6+). <br>
-`⚙️` **Performanse**: 95+ Google PageSpeed skor, WebP kompresija i instant učitavanje. <br>
-`⚙️` **SEO**: Strukturirani podaci (LocalBusiness, AutomotiveBusiness, FAQ Schema). <br>
-`⚙️` **Sigurnost**: HTTPS enkripcija i validacija korisničkih unosa. <br>
-
-<br>
+`⚙️` **Frontend**: HTML5, CSS3, Vanilla JavaScript, Netlify Edge. <br>
+`⚙️` **Arhitektura**: Multi-page katalog auto delova sa namenskim stranicama (o-firmi, kontakt, poruci). <br>
+`⚙️` **B2C/B2B Levak**: Interaktivna porudžbenica sa unosom broja šasije (VIN) i specifikacijom vozila. <br>
+`⚙️` **Pouzdanost**: 100% dostupnost, legalne smernice o privatnosti i brza mobilna navigacija. <br>
 
 ## 🌟 Recenzija Klijenta
 
-> "Sajt nam je doneo ogroman broj novih poziva i upita za delove već u prve dve nedelje. Milan je sve postavio neverovatno pregledno — majstori i kupci odmah pronađu tačno ono što traže bez lutanja, a porudžbine stižu brzo i bez greške. Prava profesionalna saradnja!"
+> "Sajt nam je doneo ogroman broj novih poziva i upita za delove već u prve dve nedelje. Milan je sve postavio neverovatno pregledno: majstori i kupci odmah pronađu tačno ono što traže bez lutanja, a porudžbine stižu brzo i bez greške. Prava profesionalna saradnja!"
 > 
-> — **Original Auto Delovi Niš tim**
+> **Original Auto Delovi Niš tim**
 
 <br>
 
@@ -73,6 +71,20 @@ Razvijena je namenska forma za VIN brzi upit sa trenutnom validacijom broja šas
 `🌐` **Website**: [milanwebportal.com](https://milanwebportal.com) <br>
 `📧` **Email**: contact@milanwebportal.com <br>
 `💼` **LinkedIn**: [Milan Petkovski](https://linkedin.com/in/milan--petkovski) <br>
+`💖` **Podrška**: [Support via PayPal](https://paypal.me/milanwebportal)
 
 ---
+
+## ☕ The Story & Support
+
+Hi! I am Milan, a 20-year-old web developer and student from Serbia. I build high-performance web applications, digital ecosystems, and tailored software solutions for businesses and creators.
+
+If you appreciate my work, open-source projects, or client platforms, and want to support my late-night coding sessions, you can support my work:
+
+💖 [Support my work via PayPal](https://paypal.me/milanwebportal)
+
+Every contribution helps me maintain servers, build new open-source initiatives, and push the boundaries of modern web engineering. Thank you!
+
+---
+
 <p align="center">Made with ❤️ by <b>Milan Web Portal</b></p>

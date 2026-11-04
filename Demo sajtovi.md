@@ -1,75 +1,104 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3500&pause=1000&color=d3ad7f&center=true&vCenter=true&width=1000&lines=DEMO+SAJTOVI;Premium+Kolekcija;UI%2FUX+Masterclass;Standard+2026" alt="Naslov" />
-</div>
+# Premium Client Demos & High-Conversion Prototypes
 
-<br>
+<p>
+  <img src="https://img.shields.io/badge/Projects-30_Demos-emerald" alt="30 Projects" />
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-ISC-blue.svg" alt="License: ISC" /></a>
+  <img src="https://img.shields.io/badge/Vite-8.x-646CFF?logo=vite&logoColor=white" alt="Vite 8" />
+  <img src="https://img.shields.io/badge/React-19.x-61DAFB?logo=react&logoColor=black" alt="React 19" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-4.x-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS 4" />
+</p>
 
-# 💎 Premium Demo Projekti i Visokokonverzioni Prototipe
+A high-performance collection of **30 production-grade demo projects & prototypes** engineered to bridge the gap between initial client concepts and full-scale digital realities. These aren't just "demos"—they are high-conversion, Awwwards-caliber prototypes designed to secure high-ticket client wins by showcasing the absolute limit of modern web performance and aesthetics.
 
-Ovo je elitna kolekcija od **13 demo projekata** spremnih za produkciju, dizajniranih da premoste jaz između inicijalne ideje klijenta i digitalne realnosti punog obima. Ovo nisu samo "demoi" — ovo su visokokonverzioni prototipi nivoa Awwwards-a, kreirani da osiguraju saradnju sa klijentima visokog ranga kroz demonstraciju apsolutnih granica modernih web performansi i estetike.
+> **"If you can't wow them with a demo, you won't win the contract."**  
+> This monorepo is the engine behind that "WOW" factor.
 
-> **"Ako ne možete da ih oduševite demo verzijom, nećete dobiti ugovor."**  
-> Ovaj monorepo je motor koji stvara taj "WOW" faktor.
+## ⚡ The 2026 Tech Edge (Bleeding Edge Optimization)
+
+To win over modern clients, speed isn't optional—it's a requirement. This workspace is optimized with a **Developer-First / Client-Focused** architecture:
+
+- **The Engine:** [Vite 8](https://vite.dev/) powered by **Rolldown & Oxc**. Builds are nearly instantaneous, and client previews are buttery smooth.
+- **The Core:** [React 19](https://react.dev/) using the latest concurrent features for zero-lag UI transitions, alongside pure Vanilla modern JS modules.
+- **The Visuals:** [Tailwind CSS 4](https://tailwindcss.com/) for ultra-lightweight, CSS-first styling that scales.
+- **The Soul:** [GSAP 3.15+](https://greensock.com/gsap/) for those "premium-feel" animations that clients associate with top-tier brands.
+
+## 📂 Strategic Portfolio Showcase
+
+Each project here was built with a specific client goal in mind: proving that a high-end digital presence is achievable in record time.
+
+| Project                     | Client Niche               | Strategic Focus                                                 |
+| :-------------------------- | :------------------------- | :-------------------------------------------------------------- |
+| **Restoranvizija**          | Fine Dining / Fusion       | Visual storytelling & premium reservation UX.                   |
+| **Vegeterija**              | Health & Lifestyle         | Fresh, vibrant aesthetics with lightning-fast load times.       |
+| **Chicolata mazz**          | Luxury Artisanal           | High-end product showcase with glassmorphism & fluid motion.    |
+| **Grilli**                  | Classic Steakhouse         | Dark, mood-driven design that triggers immediate appetite.      |
+| **Kafana Prijepolje**       | Cultural / Ethnic          | Blending traditional hospitality with modern web accessibility. |
+| **Eco Coolers Pro**         | B2B / Industrial           | Clean, professional layout focused on lead generation & specs.  |
+| **Elena Vance**             | Personal Branding          | "Expert-level" typography and minimalist portfolio flow.        |
+| **Duomo**                   | Fast-Casual Italian        | Mobile-first interactive menus for on-the-go conversion.        |
+| **Donji Grad**              | Urban Social / Cafe        | Scroll-triggered lifestyle animations that build brand vibe.    |
+| **Cosak**                   | Local Bistro / Bar         | Hyper-optimized "one-tap" information access.                   |
+| **Kafanica Kod Dede**       | Rustic / Traditional       | Custom illustrative elements for unique brand identity.         |
+| **Kararavan International** | Logistics / Travel         | Complex data routing handled with elegant, simple UI.           |
+| **Pravi Spoj**              | Modern Networking          | High-friction form optimization using Zod & TanStack.           |
+| **Pozivnice.mj**            | Event & Wedding Stationery | Interactive RSVP flows & luxury digital invitations.            |
+| **Igraonica Uzivancija**    | Kids Playcenter & Venue    | Vibrant, family-friendly layout & reservation inquiries.        |
+| **Midorijama House**        | Architecture & Hospitality | Zen minimalist aesthetic, high-res visual gallery.              |
+| **The Cups Cafeteria**      | Specialty Coffee Roaster   | Artisanal brand storytelling & dynamic coffee menus.            |
+| **Frizerski salon**         | Luxury Men's Grooming      | Dark aesthetic, transparent pricing & instant WhatsApp booking. |
+| **Slatka Mala Kafanica**    | Traditional Serbian Tavern | Warm rustic charm, interactive menu & table reservations.       |
+| **Valore Interiors**        | Bespoke Interior & Joinery | High-end dark minimalism, category portfolio & mobile leads.    |
+| **Tim Plast**               | PEHD Tanks & Reservoirs    | Interactive tank & septic volume configurator, WhatsApp & email leads. |
+| **MB Shop**                 | Boutique Gift & Kids Shop  | Clean Kindershop-style catalog, Eugen chocolates, instant WhatsApp order. |
+| **Ora Books**               | Publishing & Bookbinding   | Editorial elegance, live publishing cost calculator, sample excerpts & author consultation booking. |
+| **3D Stolarski Šabloni**    | Carpentry & 3D Tools       | Custom 3D-printed templates for carpenters, quick ordering & precision tools. |
+| **Ana Drobnjak**            | Nutrition & Dietetics      | Personalized nutrition plans, interactive client onboarding & 48h plan turnaround. |
+| **DI PLANS**                | Construction Engineering   | Engineering & technical consulting, property inspection & documentation audits. |
+| **DM Professional**         | Accounting & Finance       | Specialized bookkeeping for construction firms & SMEs, direct lead inquiries. |
+| **Keramičar Miša**          | Tile & Ceramic Craft       | Bathroom & terrace tiling portfolio, one-tap Viber/WhatsApp call and inquiry. |
+| **Kickpoint.rs**            | Streetwear & Sneakers      | Top trending sneaker drops in Serbia, cash on delivery & 48h home delivery. |
+| **Rodjendan**               | Interactive Greeting       | Interactive birthday card with microphone candle blowing, realistic flame & fireworks. |
+
+## 🚀 Performance Engineering (For the Nerds)
+
+Behind the marketing shine is a robust developer setup:
+
+- **Oxc Transformation:** Sub-second transformation times across modern Vite workspaces.
+- **Zero-Config Tailwind 4:** Leveraging the new CSS-first engine for minimal bundle sizes.
+- **Unified Workspace:** Monorepo architecture for disk efficiency and dependency sync.
+
+## 🛠️ Developer Workflow
+
+1. **Get Started:**
+
+   ```bash
+   npm install
+   ```
+
+2. **Run a Project:**
+
+   ```bash
+   cd "Restoranvizija" # or any other folder
+   npm run dev
+   ```
+
+3. **Build All Workspaces:**
+   ```bash
+   npm run build # from root
+   ```
 
 ---
 
-## ⚡ Tehnološka Dominacija (Bleeding Edge Optimizacija)
+## ☕ The Story & Support
 
-Da bi se osvojili moderni klijenti, brzina nije opcija — ona je obaveza. Ovaj workspace je optimizovan korišćenjem **Developer-First / Client-Focused** arhitekture:
+Hi! I am Milan, a 20-year-old student and web developer from Serbia. I created this collection of production-grade client prototypes to demonstrate what's possible when cutting-edge design meets sub-second web performance.
 
-- **Motor:** [Vite 8.0.13](https://vite.dev/) pokretan **Rolldown & Oxc** tehnologijom. Build-ovi su gotovo trenutni, a klijentski pregledi teku fluidno na svim uređajima.
-- **Srce:** [React 19](https://react.dev/) sa najnovijim concurrent funkcijama za nula laga u UI tranzicijama.
-- **Vizuelni Identitet:** [Tailwind CSS 4.3.0](https://tailwindcss.com/) za ultra-lagan, CSS-first stil koji se skalira bez opterećenja.
-- **Duša:** [GSAP 3.15+](https://greensock.com/gsap/) za onaj "premium osećaj" animacija koje klijenti asociraju sa top-tier brendovima.
+If these prototypes inspire your projects or save you development time and you want to support my late-night coding sessions, you can buy me a coffee!
 
----
+💖 [Support my work via PayPal](https://paypal.me/milanwebportal)
 
-## 📂 Strateški Portfolio Katalog
-
-Svaki projekat je izgrađen sa specifičnim ciljem: dokazati da je vrhunsko digitalno prisustvo ostvarivo u rekordnom roku.
-
-| Projekat | Niša Klijenta | Strateški Fokus |
-| :--- | :--- | :--- |
-| **Restoranvizija** | Fine Dining / Fusion | Vizuelni storytelling i premium UX rezervacija. |
-| **Vegeterija** | Zdravlje i Lifestyle | Sveža, vibrantna estetika sa munjevitim učitavanjem. |
-| **Chicolata mazz** | Luksuzna proizvodnja | Glassmorphism i fluidni pokreti proizvoda. |
-| **Grilli Steakhouse** | Klasičan Steakhouse | Tamni kulinarski koncept sa fokusom na apetit i rezervacije. |
-| **Kafana Prijepolje** | Tradicija / Etno | Spoj tradicionalnog gostoprimstva i moderne pristupačnosti. |
-| **Eco Coolers Pro** | B2B / Industrija | Čist, profesionalan layout fokusiran na lead generaciju. |
-| **Elena Vance** | Lični Brending | Minimalistički portfolio sa fokusom na tipografiju. |
-| **Duomo** | Fast-Casual Italijan | Interaktivni meniji optimizovani za mobilnu konverziju. |
-| **Donji Grad** | Urban Social / Cafe | Scroll-triggered animacije koje grade brend vibe. |
-| **Cosak** | Lokalni Bistro / Bar | Hiper-optimizovan pristup informacijama u jednom kliku. |
-| **Kafanica Kod Dede** | Rustično / Tradicionalno | Prilagođeni ilustrativni elementi za unikatni identitet. |
-| **Kararavan International** | Logistika / Putovanja | Kompleksno rutiranje podataka kroz elegantan UI. |
-| **Pravi Spoj** | Moderno umrežavanje | Optimizacija formi uz Zod i TanStack validaciju. |
+Every donation means a lot and helps me maintain and build new open-source projects. Thank you!
 
 ---
 
-## 🚀 Inženjering Performansi (Za developere)
-
-Iza marketinga stoji robustan razvojni setup:
-- **Oxc Transformacija:** Zamenili smo Babel/SWC sa Oxc-om kako bismo postigli transformacije ispod sekunde.
-- **Zero-Config Tailwind 4:** Korišćenje novog CSS-first engine-a za minimalne veličine bundle-a.
-- **Jedinstveni Workspace:** Svi projekti dele jedan `node_modules` koren radi efikasnosti diska i sinhronizacije zavisnosti.
-
----
-
-## 🛠️ Radni Tok (Workflow)
-
-1.  **Početak**:
-    ```bash
-    npm install
-    ```
-2.  **Pokretanje Projekta**:
-    ```bash
-    cd "Ime-Projekta"
-    npm run dev
-    ```
-3.  **Build Svih Projekata**:
-    ```bash
-    npm run build
-    ```
-
----
 <p align="center">Made with ❤️ by <b>Milan Web Portal</b></p>

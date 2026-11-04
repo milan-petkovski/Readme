@@ -30,7 +30,7 @@ Zenn je moderna SaaS landing stranica dizajnirana za aplikaciju fokusiranu na pr
 ## 🎯 Strategija i Ciljevi
 
 ### 🧩 Problem
-Aplikacije za produktivnost često imaju previše funkcija koje, umesto da pomognu, dodatno zbunjuju korisnika. Odredišne stranice takvih alata često ne uspevaju da komuniciraju sržnu vrednost – kako zapravo olakšavaju život korisniku.
+Aplikacije za produktivnost često imaju previše funkcija koje, umesto da pomognu, dodatno zbunjuju korisnika. Odredišne stranice takvih alata često ne uspevaju da komuniciraju sržnu vrednost: kako zapravo olakšavaju život korisniku.
 
 ### 💡 Rešenje
 Zenn koristi minimalistički SaaS okvir. Fokus je na tri stuba vrednosti: napredno upravljanje zadacima, maksimalna jednostavnost (simplicity) i besprekorna sinhronizacija između uređaja. Centralni konverzioni element je "Počni besplatno" poziv na akciju koji podstiče na trenutnu probu alata.
@@ -47,24 +47,36 @@ Zenn koristi minimalistički SaaS okvir. Fokus je na tri stuba vrednosti: napred
 `💎` **Benefit-Driven UI**: Kartice funkcionalnosti sa fokusom na realne probleme koje aplikacija rešava. <br>
 `💎` **Cross-Device Sync**: Jasan prikaz vrednosti sinhronizacije podataka u realnom vremenu. <br>
 `💎` **SaaS Hero Section**: Uvodna sekcija sa snažnom porukom i fokusnim pozivom na akciju. <br>
-`💎` **Clean Layout**: Dizajn koji odražava samu srž aplikacije – produktivnost bez buke. <br>
+`💎` **Clean Layout**: Dizajn koji odražava samu srž aplikacije: produktivnost bez buke. <br>
 
 <br>
 
 ## 🛠️ Tech Stack & Optimizacija
 
-`⚙️` **Platforma**: Webflow sa naprednim prilagođavanjima interfejsa. <br>
-`⚙️` **Dizajn**: Struktura prodajnog teksta (copywriting) usmerena na visoku konverziju. <br>
-`⚙️` **Performanse**: Lagan frontend koji garantuje trenutno učitavanje na svim platformama. <br>
-`⚙️` **SEO**: Metadata i informacijska arhitektura pripremljeni za tech i SaaS nišu. <br>
-
-<br>
+`⚙️` **Platforma**: Webflow sa bespoke interakcijama i čistim layout-om. <br>
+`⚙️` **Dizajn**: Minimalistička SaaS estetika prilagođena aplikaciji za produktivnost. <br>
+`⚙️` **Optimizacija**: Brzo učitavanje uz maksimalnu kompresiju grafičkih elemenata. <br>
+`⚙️` **Konverzija**: Jasni CTA elementi usmereni na registraciju i preuzimanje aplikacije. <br>
 
 ## 📬 Kontakt
 
 `🌐` **Website**: [milanwebportal.com](https://milanwebportal.com) <br>
 `📧` **Email**: contact@milanwebportal.com <br>
 `💼` **LinkedIn**: [Milan Petkovski](https://linkedin.com/in/milan--petkovski) <br>
+`💖` **Podrška**: [Support via PayPal](https://paypal.me/milanwebportal)
 
 ---
+
+## ☕ The Story & Support
+
+Hi! I am Milan, a 20-year-old web developer and student from Serbia. I build high-performance web applications, digital ecosystems, and tailored software solutions for businesses and creators.
+
+If you appreciate my work, open-source projects, or client platforms, and want to support my late-night coding sessions, you can support my work:
+
+💖 [Support my work via PayPal](https://paypal.me/milanwebportal)
+
+Every contribution helps me maintain servers, build new open-source initiatives, and push the boundaries of modern web engineering. Thank you!
+
+---
+
 <p align="center">Made with ❤️ by <b>Milan Web Portal</b></p>

@@ -53,18 +53,30 @@ Sinapis koristi "empatijsku strukturu" sadržaja. Fokus je na uvodnoj sekvenci k
 
 ## 🛠️ Tech Stack & Optimizacija
 
-`⚙️` **Frontend**: HTML5, CSS3, JavaScript (ES6+). <br>
-`⚙️` **Hosting**: Netlify sa maksimalnom dostupnošću i brzinom. <br>
-`⚙️` **Dizajn**: UX arhitektura usmerena na uklanjanje distrakcija i izgradnju poverenja. <br>
-`⚙️` **SEO**: Semantička struktura prilagođena specifičnim upitima u health i wellness niši. <br>
-
-<br>
+`⚙️` **Frontend**: HTML5, Tailwind CSS (input.css), PostCSS, Autoprefixer, JavaScript (ES6+). <br>
+`⚙️` **Build Sistem**: Vite bundler sa automatizovanim keširanjem i asset hashingom. <br>
+`⚙️` **Dizajn**: Prirodna, smirujuća wellness estetika sa responzivnim rasporedom programa. <br>
+`⚙️` **Performanse**: Savršeni Core Web Vitals uz Netlify globalni Edge CDN. <br>
 
 ## 📬 Kontakt
 
 `🌐` **Website**: [milanwebportal.com](https://milanwebportal.com) <br>
 `📧` **Email**: contact@milanwebportal.com <br>
 `💼` **LinkedIn**: [Milan Petkovski](https://linkedin.com/in/milan--petkovski) <br>
+`💖` **Podrška**: [Support via PayPal](https://paypal.me/milanwebportal)
 
 ---
+
+## ☕ The Story & Support
+
+Hi! I am Milan, a 20-year-old web developer and student from Serbia. I build high-performance web applications, digital ecosystems, and tailored software solutions for businesses and creators.
+
+If you appreciate my work, open-source projects, or client platforms, and want to support my late-night coding sessions, you can support my work:
+
+💖 [Support my work via PayPal](https://paypal.me/milanwebportal)
+
+Every contribution helps me maintain servers, build new open-source initiatives, and push the boundaries of modern web engineering. Thank you!
+
+---
+
 <p align="center">Made with ❤️ by <b>Milan Web Portal</b></p>

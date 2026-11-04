@@ -53,18 +53,30 @@ Sajt nudi interaktivno iskustvo kroz katalog proizvoda sa detaljnim specifikacij
 
 ## 🛠️ Tech Stack & Optimizacija
 
-`⚙️` **Arhitektura**: Custom Vanilla JavaScript za maksimalne performanse. <br>
-`⚙️` **Frontend**: Optimizovan HTML5 i CSS3 layout bez suvišnih biblioteka. <br>
-`⚙️` **Validacija**: Client-side validacija podataka za sprečavanje neispravnih upita. <br>
-`⚙️` **Performanse**: Izuzetno brzo učitavanje zahvaljujući modularnom pristupu. <br>
-
-<br>
+`⚙️` **Frontend**: HTML5, CSS3, JavaScript (ES6+), Vite bundler. <br>
+`⚙️` **Funkcionalnosti**: Interaktivni kalkulator otkupa bele tehnike i administrativni panel. <br>
+`⚙️` **Infrastruktura**: Netlify Edge Functions sa sigurnim rukovanjem parametrima okruženja. <br>
+`⚙️` **Konverzija**: Instant izračunavanje procene uređaja i direktno slanje upita. <br>
 
 ## 📬 Kontakt
 
 `🌐` **Website**: [milanwebportal.com](https://milanwebportal.com) <br>
 `📧` **Email**: contact@milanwebportal.com <br>
 `💼` **LinkedIn**: [Milan Petkovski](https://linkedin.com/in/milan--petkovski) <br>
+`💖` **Podrška**: [Support via PayPal](https://paypal.me/milanwebportal)
 
 ---
+
+## ☕ The Story & Support
+
+Hi! I am Milan, a 20-year-old web developer and student from Serbia. I build high-performance web applications, digital ecosystems, and tailored software solutions for businesses and creators.
+
+If you appreciate my work, open-source projects, or client platforms, and want to support my late-night coding sessions, you can support my work:
+
+💖 [Support my work via PayPal](https://paypal.me/milanwebportal)
+
+Every contribution helps me maintain servers, build new open-source initiatives, and push the boundaries of modern web engineering. Thank you!
+
+---
+
 <p align="center">Made with ❤️ by <b>Milan Web Portal</b></p>

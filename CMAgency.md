@@ -53,18 +53,16 @@ Sajt je postavljen kao prava "mašina za upite". Fokus je na jasnoj prezentaciji
 
 ## 🛠️ Tech Stack & Optimizacija
 
-`⚙️` **Frontend**: HTML5, CSS3, JavaScript (ES6+). <br>
-`⚙️` **Performanse**: Optimizovan build na Netlify platformi za maksimalnu brzinu. <br>
-`⚙️` **Struktura**: Multi-page arhitektura sa posebnim fokusom na Legal i FAQ stranice. <br>
-`⚙️` **SEO**: Napredna semantička struktura prilagođena marketinškim ključnim rečima. <br>
-
-<br>
+`⚙️` **Frontend**: HTML5, CSS3, JavaScript (ES6+), Vite bundler. <br>
+`⚙️` **Struktura**: Multi-page arhitektura (index.html, faq.html, app.js, main.js). <br>
+`⚙️` **Infrastruktura**: Docker kontejnerizacija i Netlify produkcijski deployment. <br>
+`⚙️` **SEO & Konverzija**: Kvalifikacioni onboarding formular sa definicijom budžeta i obima posla. <br>
 
 ## 🌟 Recenzija Klijenta
 
 > "Imao sam veliko zadovoljstvo da sarađujem sa Milanom i mogu reći samo reči hvale. Njegova posvećenost i angažovanost su na vrhunskom nivou - uvek je dostupan i spreman da pomogne. Ono što ga izdvaja je neverovatna brzina rada bez kompromisa na kvalitetu, sajtovi koje kreira su vizuelno impresivni."
 > 
-> — **Osnivač CM Agency**
+> **Osnivač CM Agency**
 
 <br>
 
@@ -73,6 +71,20 @@ Sajt je postavljen kao prava "mašina za upite". Fokus je na jasnoj prezentaciji
 `🌐` **Website**: [milanwebportal.com](https://milanwebportal.com) <br>
 `📧` **Email**: contact@milanwebportal.com <br>
 `💼` **LinkedIn**: [Milan Petkovski](https://linkedin.com/in/milan--petkovski) <br>
+`💖` **Podrška**: [Support via PayPal](https://paypal.me/milanwebportal)
 
 ---
+
+## ☕ The Story & Support
+
+Hi! I am Milan, a 20-year-old web developer and student from Serbia. I build high-performance web applications, digital ecosystems, and tailored software solutions for businesses and creators.
+
+If you appreciate my work, open-source projects, or client platforms, and want to support my late-night coding sessions, you can support my work:
+
+💖 [Support my work via PayPal](https://paypal.me/milanwebportal)
+
+Every contribution helps me maintain servers, build new open-source initiatives, and push the boundaries of modern web engineering. Thank you!
+
+---
+
 <p align="center">Made with ❤️ by <b>Milan Web Portal</b></p>

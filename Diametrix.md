@@ -53,18 +53,16 @@ Fokusirali smo komunikaciju na tehničke prednosti metoda bez vibracija i jasnu 
 
 ## 🛠️ Tech Stack & Optimizacija
 
-`⚙️` **Frontend**: HTML5, CSS3, JavaScript (ES6+). <br>
-`⚙️` **Arhitektura**: Service-page struktura koja omogućava duboko informisanje o svakoj metodi. <br>
-`⚙️` **Optimizacija**: SEO blokovi teksta usmereni na industrijsku terminologiju. <br>
-`⚙️` **UX**: Responzivan interfejs prilagođen inženjerima i menadžerima na terenu. <br>
-
-<br>
+`⚙️` **Frontend**: HTML5, CSS3, JavaScript (ES6+), Vite bundler. <br>
+`⚙️` **Arhitektura**: Specijalizovana multi-page struktura za bušenje, sečenje i demontažu betona. <br>
+`⚙️` **B2B Fokus**: Tehnički vodiči za inženjere na terenu i brzi sistem upita za ponudu. <br>
+`⚙️` **SEO**: Rangiranje za visokovredne industrijske ključne reči bez vibracija. <br>
 
 ## 🌟 Recenzija Klijenta
 
 > "Saradnja sa Milanom je bila ozbiljna i maksimalno efikasna od prvog dana. Odlično je razumeo našu industriju i način na koji komuniciramo usluge, pa je sajt pogodio tačno ono što nam je trebalo. Rezultat je moderan i profesionalan sajt koji radi besprekorno na svim uređajima."
 > 
-> — **Diametrix Systems tim**
+> **Diametrix Systems tim**
 
 <br>
 
@@ -73,6 +71,20 @@ Fokusirali smo komunikaciju na tehničke prednosti metoda bez vibracija i jasnu 
 `🌐` **Website**: [milanwebportal.com](https://milanwebportal.com) <br>
 `📧` **Email**: contact@milanwebportal.com <br>
 `💼` **LinkedIn**: [Milan Petkovski](https://linkedin.com/in/milan--petkovski) <br>
+`💖` **Podrška**: [Support via PayPal](https://paypal.me/milanwebportal)
 
 ---
+
+## ☕ The Story & Support
+
+Hi! I am Milan, a 20-year-old web developer and student from Serbia. I build high-performance web applications, digital ecosystems, and tailored software solutions for businesses and creators.
+
+If you appreciate my work, open-source projects, or client platforms, and want to support my late-night coding sessions, you can support my work:
+
+💖 [Support my work via PayPal](https://paypal.me/milanwebportal)
+
+Every contribution helps me maintain servers, build new open-source initiatives, and push the boundaries of modern web engineering. Thank you!
+
+---
+
 <p align="center">Made with ❤️ by <b>Milan Web Portal</b></p>

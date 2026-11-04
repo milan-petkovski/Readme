@@ -30,7 +30,7 @@ Tourly je savremen koncept sajta namenjen turističkim agencijama i platformama 
 ## 🎯 Strategija i Ciljevi
 
 ### 🧩 Problem
-Sajtovi u turističkoj industriji često ne uspevaju da zadrže pažnju korisnika jer previše naglašavaju prodajni aspekt, zanemarujući inspiraciju, ili obrnuto – destinacije izgledaju lepo, ali je put do rezervacije nejasan i komplikovan.
+Sajtovi u turističkoj industriji često ne uspevaju da zadrže pažnju korisnika jer previše naglašavaju prodajni aspekt, zanemarujući inspiraciju, ili obrnuto: destinacije izgledaju lepo, ali je put do rezervacije nejasan i komplikovan.
 
 ### 💡 Rešenje
 Tourly kombinuje upečatljiv prikaz najpopularnijih destinacija sa preciznim karticama paketa koje sadrže sve ključne parametre: trajanje putovanja, broj osoba i cenu. Korisnik se vodi kroz jasan vizuelni put od odabira destinacije do finalnog poziva na akciju za upit ili rezervaciju.
@@ -53,18 +53,30 @@ Tourly kombinuje upečatljiv prikaz najpopularnijih destinacija sa preciznim kar
 
 ## 🛠️ Tech Stack & Optimizacija
 
-`⚙️` **Frontend**: HTML5, CSS3, JavaScript (ES6+). <br>
-`⚙️` **Dizajn**: Responzivna travel-landing arhitektura usmerena na estetiku i konverziju. <br>
-`⚙️` **Performanse**: Visoka brzina učitavanja vizuelno bogatih stranica. <br>
-`⚙️` **SEO**: Struktura optimizovana za rangiranje turističkih i booking ključnih reči. <br>
-
-<br>
+`⚙️` **Frontend**: HTML5, Tailwind CSS, PostCSS, Autoprefixer, Vite, JavaScript (ES6+). <br>
+`⚙️` **Build Sistem**: Vite bundler sa modernim ES modulima i kompresijom stilova. <br>
+`⚙️` **Dizajn**: Interaktivna turistička platforma sa paketima putovanja i pretragom destinacija. <br>
+`⚙️` **UX & Brzina**: Mobile-first dizajn optimizovan za brzu rezervaciju i pretragu ponuda. <br>
 
 ## 📬 Kontakt
 
 `🌐` **Website**: [milanwebportal.com](https://milanwebportal.com) <br>
 `📧` **Email**: contact@milanwebportal.com <br>
 `💼` **LinkedIn**: [Milan Petkovski](https://linkedin.com/in/milan--petkovski) <br>
+`💖` **Podrška**: [Support via PayPal](https://paypal.me/milanwebportal)
 
 ---
+
+## ☕ The Story & Support
+
+Hi! I am Milan, a 20-year-old web developer and student from Serbia. I build high-performance web applications, digital ecosystems, and tailored software solutions for businesses and creators.
+
+If you appreciate my work, open-source projects, or client platforms, and want to support my late-night coding sessions, you can support my work:
+
+💖 [Support my work via PayPal](https://paypal.me/milanwebportal)
+
+Every contribution helps me maintain servers, build new open-source initiatives, and push the boundaries of modern web engineering. Thank you!
+
+---
+
 <p align="center">Made with ❤️ by <b>Milan Web Portal</b></p>

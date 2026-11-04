@@ -15,7 +15,7 @@
 <br>
 
 ## 💎 Premium Iskustvo
-Ketering Karović nije samo sajt – to je digitalni produžetak brenda koji se bavi vrhunskom hranom. Cilj je bio kreirati platformu koja na prvi pogled budi apetit i uliva poverenje kroz besprekoran UI/UX dizajn.
+Ketering Karović nije samo sajt: to je digitalni produžetak brenda koji se bavi vrhunskom hranom. Cilj je bio kreirati platformu koja na prvi pogled budi apetit i uliva poverenje kroz besprekoran UI/UX dizajn.
 
 | Kategorija | Informacije |
 | :--- | :--- |
@@ -53,18 +53,16 @@ Razvili smo interfejs fokusiran na vizuelni identitet hrane. Uveli smo "Sticky M
 
 ## 🛠️ Tech Stack & Optimizacija
 
-`⚙️` **Frontend**: HTML5, CSS3 (Modern Flex/Grid), JavaScript (ES6+). <br>
-`⚙️` **Performanse**: Lazy loading slika visokog kvaliteta bez gubitka brzine. <br>
-`⚙️` **SEO**: Napredna schema.org struktura za lokalni biznis rangiranje. <br>
-`⚙️` **Deployment**: Optimizovan build za maksimalnu dostupnost. <br>
-
-<br>
+`⚙️` **Core Stack**: React 18, TypeScript, Vite, Vitest test suite. <br>
+`⚙️` **Styling & UI**: Tailwind CSS, Radix UI Primitives, Lucide Icons, Embla Carousel. <br>
+`⚙️` **Forme i Validacija**: React Hook Form, Zod schema validacija, Sonner toast sistem. <br>
+`⚙️` **Optimizacija**: Optimizovani web formati slika, schema.org strukturirani podaci za lokalni ketering biznis. <br>
 
 ## 🌟 Recenzija Klijenta
 
 > "Ćao Milane, samo smo hteli da ti se zahvalimo za sajt koji si nam uradio. Stvarno smo prezadovoljni kako je sve ispalo. Od početka do kraja si bio maksimalno profesionalan, brz i organizovan. Posebno nam je značilo što si unapred znao tačno šta treba da se uradi i kako sve treba da izgleda."
 > 
-> — **Tim Ketering Karović**
+> **Tim Ketering Karović**
 
 <br>
 
@@ -73,6 +71,20 @@ Razvili smo interfejs fokusiran na vizuelni identitet hrane. Uveli smo "Sticky M
 `🌐` **Website**: [milanwebportal.com](https://milanwebportal.com) <br>
 `📧` **Email**: contact@milanwebportal.com <br>
 `💼` **LinkedIn**: [Milan Petkovski](https://linkedin.com/in/milan--petkovski) <br>
+`💖` **Podrška**: [Support via PayPal](https://paypal.me/milanwebportal)
 
 ---
+
+## ☕ The Story & Support
+
+Hi! I am Milan, a 20-year-old web developer and student from Serbia. I build high-performance web applications, digital ecosystems, and tailored software solutions for businesses and creators.
+
+If you appreciate my work, open-source projects, or client platforms, and want to support my late-night coding sessions, you can support my work:
+
+💖 [Support my work via PayPal](https://paypal.me/milanwebportal)
+
+Every contribution helps me maintain servers, build new open-source initiatives, and push the boundaries of modern web engineering. Thank you!
+
+---
+
 <p align="center">Made with ❤️ by <b>Milan Web Portal</b></p>

@@ -53,18 +53,16 @@ Prodavnica je strukturirana kao direktan prodajni levak. Svaki proizvod je preds
 
 ## 🛠️ Tech Stack & Optimizacija
 
-`⚙️` **Platforma**: Custom e-commerce arhitektura prilagođena brzom skaliranju. <br>
-`⚙️` **Dizajn**: Responzivna tema koja prati vizuelni kod Tutz brenda. <br>
-`⚙️` **Performanse**: Optimizovano učitavanje slika visokog kvaliteta bez gubitka brzine. <br>
-`⚙️` **SEO**: Metadata struktura prilagođena pretrazi specifičnih merč artikala. <br>
-
-<br>
+`⚙️` **Platforma**: Shopify Liquid templating engine sa prilagođenim CSS/JS rešenjima. <br>
+`⚙️` **E-Commerce**: Optimizovan katalog proizvoda, korpa i bezbedan checkout proces. <br>
+`⚙️` **Responzivnost**: Savršeno prilagođeno kupovini preko mobilnih telefona i gejming zajednici. <br>
+`⚙️` **Integracije**: Praćenje analitike poseta, pikseli društvenih mreža i inventar u realnom vremenu. <br>
 
 ## 🌟 Recenzija Klijenta
 
 > "Prelazak na custom prodavnicu bio je pun pogodak. Fanovi završavaju kupovinu u tri klika, nema više zastoja i pada sistema tokom live stream dropova, a celokupan proces naručivanja teče besprekorno."
 > 
-> — **Tutz Shop Director**
+> **Tutz Shop Director**
 
 <br>
 
@@ -73,6 +71,20 @@ Prodavnica je strukturirana kao direktan prodajni levak. Svaki proizvod je preds
 `🌐` **Website**: [milanwebportal.com](https://milanwebportal.com) <br>
 `📧` **Email**: contact@milanwebportal.com <br>
 `💼` **LinkedIn**: [Milan Petkovski](https://linkedin.com/in/milan--petkovski) <br>
+`💖` **Podrška**: [Support via PayPal](https://paypal.me/milanwebportal)
 
 ---
+
+## ☕ The Story & Support
+
+Hi! I am Milan, a 20-year-old web developer and student from Serbia. I build high-performance web applications, digital ecosystems, and tailored software solutions for businesses and creators.
+
+If you appreciate my work, open-source projects, or client platforms, and want to support my late-night coding sessions, you can support my work:
+
+💖 [Support my work via PayPal](https://paypal.me/milanwebportal)
+
+Every contribution helps me maintain servers, build new open-source initiatives, and push the boundaries of modern web engineering. Thank you!
+
+---
+
 <p align="center">Made with ❤️ by <b>Milan Web Portal</b></p>

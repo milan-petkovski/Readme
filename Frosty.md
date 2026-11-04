@@ -53,18 +53,30 @@ Sajt kombinuje "Signature Flavors" katalog sa interaktivnim narativom o nasleđu
 
 ## 🛠️ Tech Stack & Optimizacija
 
-`⚙️` **Frontend**: HTML5, CSS3, JavaScript (ES6+). <br>
-`⚙️` **Dizajn**: Vizuelno vođen interfejs sa fokusom na visokokvalitetne slike proizvoda. <br>
-`⚙️` **Optimizacija**: Lazy loading i optimizacija asset-a za brzo učitavanje na mobilnim uređajima. <br>
-`⚙️` **SEO**: Schema mark-up prilagođen lokalnim biznisima i food industriji. <br>
-
-<br>
+`⚙️` **Core Stack**: React 18, TypeScript, Vite, Bun / npm. <br>
+`⚙️` **Styling & UI**: Tailwind CSS, Radix UI Primitives, Lucide Icons, Class Variance Authority. <br>
+`⚙️` **Forme i Validacija**: React Hook Form, Zod schema validacija, Sonner toast notifikacije. <br>
+`⚙️` **Optimizacija**: Lazy loading asset-a, TanStack Query za keširanje stanja i sub-second Core Web Vitals. <br>
 
 ## 📬 Kontakt
 
 `🌐` **Website**: [milanwebportal.com](https://milanwebportal.com) <br>
 `📧` **Email**: contact@milanwebportal.com <br>
 `💼` **LinkedIn**: [Milan Petkovski](https://linkedin.com/in/milan--petkovski) <br>
+`💖` **Podrška**: [Support via PayPal](https://paypal.me/milanwebportal)
 
 ---
+
+## ☕ The Story & Support
+
+Hi! I am Milan, a 20-year-old web developer and student from Serbia. I build high-performance web applications, digital ecosystems, and tailored software solutions for businesses and creators.
+
+If you appreciate my work, open-source projects, or client platforms, and want to support my late-night coding sessions, you can support my work:
+
+💖 [Support my work via PayPal](https://paypal.me/milanwebportal)
+
+Every contribution helps me maintain servers, build new open-source initiatives, and push the boundaries of modern web engineering. Thank you!
+
+---
+
 <p align="center">Made with ❤️ by <b>Milan Web Portal</b></p>

@@ -53,18 +53,30 @@ Razvijena je moderna jednostranična agencijska prezentacija sa interaktivnim ur
 
 ## 🛠️ Tech Stack & Optimizacija
 
-`⚙️` **Frontend**: Semantički HTML5, Tailwind CSS, savremeni JavaScript. <br>
-`⚙️` **Integracije**: Calendly API / Widget, Zoho Mail sa custom domenom. <br>
-`⚙️` **Infrastruktura**: Spaceship domen menadžment i Netlify ultra-brzi hosting. <br>
-`⚙️` **Performanse**: 95+ PageSpeed skor uz optimizovane vektorske i WebP resurse. <br>
-
-<br>
+`⚙️` **Frontend**: Semantički HTML5, responzivni CSS3, JavaScript. <br>
+`⚙️` **Fokus**: Minimalistički high-conversion levak za email marketing agenciju. <br>
+`⚙️` **Performanse**: Sub-second učitavanje bez eksternih biblioteka koje usporavaju sajt. <br>
+`⚙️` **SEO & Analitika**: Optimizovani Open Graph protokoli, sitemap.xml i robots.txt. <br>
 
 ## 📬 Kontakt
 
 `🌐` **Website**: [milanwebportal.com](https://milanwebportal.com) <br>
 `📧` **Email**: contact@milanwebportal.com <br>
 `💼` **LinkedIn**: [Milan Petkovski](https://linkedin.com/in/milan--petkovski) <br>
+`💖` **Podrška**: [Support via PayPal](https://paypal.me/milanwebportal)
 
 ---
+
+## ☕ The Story & Support
+
+Hi! I am Milan, a 20-year-old web developer and student from Serbia. I build high-performance web applications, digital ecosystems, and tailored software solutions for businesses and creators.
+
+If you appreciate my work, open-source projects, or client platforms, and want to support my late-night coding sessions, you can support my work:
+
+💖 [Support my work via PayPal](https://paypal.me/milanwebportal)
+
+Every contribution helps me maintain servers, build new open-source initiatives, and push the boundaries of modern web engineering. Thank you!
+
+---
+
 <p align="center">Made with ❤️ by <b>Milan Web Portal</b></p>
