@@ -1,14 +1,14 @@
 # Premium Client Demos & High-Conversion Prototypes
 
 <p>
-  <img src="https://img.shields.io/badge/Projects-30_Demos-emerald" alt="30 Projects" />
+  <img src="https://img.shields.io/badge/Projects-32_Demos-emerald" alt="32 Projects" />
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-ISC-blue.svg" alt="License: ISC" /></a>
   <img src="https://img.shields.io/badge/Vite-8.x-646CFF?logo=vite&logoColor=white" alt="Vite 8" />
   <img src="https://img.shields.io/badge/React-19.x-61DAFB?logo=react&logoColor=black" alt="React 19" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-4.x-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS 4" />
 </p>
 
-A high-performance collection of **30 production-grade demo projects & prototypes** engineered to bridge the gap between initial client concepts and full-scale digital realities. These aren't just "demos"—they are high-conversion, Awwwards-caliber prototypes designed to secure high-ticket client wins by showcasing the absolute limit of modern web performance and aesthetics.
+A high-performance collection of **32 production-grade demo projects & prototypes** engineered to bridge the gap between initial client concepts and full-scale digital realities. These aren't just "demos"—they are high-conversion, Awwwards-caliber prototypes designed to secure high-ticket client wins by showcasing the absolute limit of modern web performance and aesthetics.
 
 > **"If you can't wow them with a demo, you won't win the contract."**  
 > This monorepo is the engine behind that "WOW" factor.
@@ -58,6 +58,8 @@ Each project here was built with a specific client goal in mind: proving that a 
 | **Keramičar Miša**          | Tile & Ceramic Craft       | Bathroom & terrace tiling portfolio, one-tap Viber/WhatsApp call and inquiry. |
 | **Kickpoint.rs**            | Streetwear & Sneakers      | Top trending sneaker drops in Serbia, cash on delivery & 48h home delivery. |
 | **Rodjendan**               | Interactive Greeting       | Interactive birthday card with microphone candle blowing, realistic flame & fireworks. |
+| **SILA Beauty Studio**      | Aesthetic & Body Treatments | Doctor-supervised EMS, cavitation, lymphatic drainage & IV therapy with consultation booking. |
+| **Prevent Plus Q**          | Workplace Health & Safety  | B2B OSH compliance, risk assessment documentation & direct consultation scheduling in Belgrade. |
 
 ## 🚀 Performance Engineering (For the Nerds)
 
